@@ -70,24 +70,22 @@ export const perguntas = [
                 texto:"Acender sua lanterna",
                 afirmacao: [ ""
                 ],
-                proxima: 1,
+                proxima: 9,
             },
             {
                 texto: "Perguntar como está seu companheiro",
                 afirmacao: [ ""
                 ],
-                proxima: 1,
+                proxima: 10,
             },
         ]
     },
     {
-        enunciado: "Utilizar informações próprias traz um toque pessoal ao nosso trabalho. Agora imagine que você precisa participar de um debate sobre o quanto a IA impacta no trabalho do futuro. Qual posicionamento tomar?",
+        enunciado: "''Você tem uma lanterna imbecil? Traga já essa merda aqui! Onde estamos!? O que tá acontecendo merda!?!'' Depois de discutirem, e de você revelar seu real motivo de contrato (que fez seu companheiro rir ironica, mas nervosamente), vocês decidem buscar a saída. Você consegue sentir algo estranho no ar, excluindo o cheiro que ele traz, que 10 segundos nas suas narinas já foram suficientes para provocar ânsias. Depois de andarem pelo que pareceu 5 horas, vocês encontram um livro, ou melhor, um diário (em péssimas condições, e com um cheiro de carne podre impregnado) escrito em frânces, por sorte seu companheiro o sabia e leu as seguintes palavras: ''Esta É a Tumba de Takahat, sob o mar de areia está esse mar de sangue, aqui só há morte''",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao: [
-                    "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA.",
-                    "Participa ativamente do desenvolvimento de soluções criativas e na melhoria de processos em IA."
+                texto: "O que foi isso?",
+                afirmacao: [ ""
                 ],
                 proxima: 5,
             },
