@@ -98,23 +98,19 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Novas tecnologias trazem novos desafios, por isso após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado:  "Antes que você consiga fazer isso, você percebe um súbito brilho, um brilho dourado, seduzente. Era o que você imginava, não como você imaginava, o corredor levou você em direção a um salão, uma ponte conectava você a outro corredor, essa ponte cruzava um rio, não de águas cristalinas, mas de ouro e jóias, milhões de toneladas de ouro, o brilho, você pensa, pode até cegar, tamanho o esplendor e riqueza que estava ali, a 3 passos. Você olha para seu companheiro, que tem a mesma reação, mas ele começa a andar em direção ao mar dourado, como uma mariposa encantada por uma lâmpada, palavras não saem da sua boca, talvez você queira fazer o mesmo, é, vá em direção ao ouro, nada mais importa, só o brilho do Sol. Tão súbito como o brilho, você ouve um ruído, que aumenta a cada segundo, você também percebe que o seu companheiro está sobre o ouro, dando uma de Tio Patinhas, governando-o, você:",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao: [
-                    "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA.",
-                    "Participa ativamente do desenvolvimento de soluções criativas e na melhoria de processos em IA."
+                texto: "Vai até ele",
+                afirmacao: [ ""
                 ],
                 proxima: 13,
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao: [
-                    "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética.",
-                    "Criou grupos de ética voltado para IA e busca ativamente reduzir as desigualdades geradas pela automação."
+                texto: "Tenta chamá-lo",
+                afirmacao: [ ""
                 ],
-                proxima: 7,
+                proxima: 14,
             },
         ]
     },
