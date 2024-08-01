@@ -87,15 +87,13 @@ export const perguntas = [
                 texto: "O que foi isso?",
                 afirmacao: [ ""
                 ],
-                proxima: 5,
+                proxima: 11,
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao: [
-                    "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética.",
-                    "Criou grupos de ética voltado para IA e busca ativamente reduzir as desigualdades geradas pela automação."
+                texto: "Segue em frente, calado e apreensivo",
+                afirmacao: [ ""
                 ],
-                proxima: 6,
+                proxima: 12,
             },
         ]
     },
