@@ -53,13 +53,13 @@ export const perguntas = [
                 texto: "Você olha em sua direção, curioso",
                 afirmacao: [ ""
                 ],
-                proxima: 1,
+                proxima: 2,
             },
             {
                 texto: "Você pergunta o que ele encontrou",
                 afirmacao: [ ""
                 ],
-                proxima: 1,
+                proxima: 2,
             },
         ]
     },
