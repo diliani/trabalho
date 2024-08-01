@@ -12,14 +12,14 @@ export const perguntas = [
                 texto: "E se, por algum acaso, os perigos forem reais?",
                 afirmacao: [ ""
                 ],
-                proxima: 1,
+                proxima: 2,
             },
             {
                 texto: "Talvez seja melhor conseguir um companheiro",
                 afirmacao:[ ""
 
                 ],
-                proxima: 1,
+                proxima: 3,
             },
         ]
     },
@@ -30,19 +30,19 @@ export const perguntas = [
                 texto: "Akbar, um batedor de carteira",
                 afirmacao: [ ""
                 ],
-                proxima: 1,
+                proxima: 4,
             },
             {
                 texto: "Malik, um ex-escravo do Sudão",
                 afirmacao: [ ""
                 ],
-                proxima: 1,
+                proxima: 5,
             },
             {
                 texto: "Ramés, um assassino de aluguel",
                 afirmacao: [ ""
                 ],
-                proxima: 1,
+                proxima: 6,
             },
         ]
     },
@@ -53,13 +53,13 @@ export const perguntas = [
                 texto: "Você olha em sua direção, curioso",
                 afirmacao: [ ""
                 ],
-                proxima: 2,
+                proxima: 7,
             },
             {
                 texto: "Você pergunta o que ele encontrou",
                 afirmacao: [ ""
                 ],
-                proxima: 2,
+                proxima: 8,
             },
         ]
     },
