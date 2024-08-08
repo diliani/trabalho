@@ -115,13 +115,12 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "É muito importante refletir sobre os trabalhadores do futuro. Por isso a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "O ruído se torna ensurdecedor, tirando você do transe em que estava, você observa, sem acreditar uma onda, 7 metros ou sei lá, de moedas e jóias, vindo em direção da ponte, desesperado você tenta chamar o desgraçado pelo ouro, talvez ele tenha mesmo um poder sobre a mente fraca do homem, você não tem escolha e corre, corre em direção ao corredor seguinte, a onda atinge a ponte, com um peso avassalador de toneladas, destruindo-a e destruindo também os ossos e órgãos do agora irreconhecível cadáver, que com a pressão tingiu o ouro de carmesim, se tornando parte da riqueza amaldiçoada. Você está correndo pelo corredor, você não consegue olhar pra trás, você apenas: ",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
+                texto: "Corre...",
                 afirmacao: [
-                    "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA.",
-                    "Participa ativamente do desenvolvimento de soluções criativas e na melhoria de processos em IA."
+                   ""
                 ],
                 proxima: 7,
             },
