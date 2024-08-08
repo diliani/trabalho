@@ -84,6 +84,7 @@ export const perguntas = [
             },
         ]
     },
+    /* pergunta 4 */
     {
         enunciado: "''Você tem uma lanterna imbecil? Traga já essa merda aqui! Onde estamos!? O que tá acontecendo merda!?!'' Depois de discutirem, e de você revelar seu real motivo de contrato (que fez seu companheiro rir ironica, mas nervosamente), vocês decidem buscar a saída. Você consegue sentir algo estranho no ar, excluindo o cheiro que ele traz, que 10 segundos nas suas narinas já foram suficientes para provocar ânsias. Depois de andarem pelo que pareceu 5 horas, vocês encontram um livro, ou melhor, um diário (em péssimas condições, e com um cheiro de carne podre impregnado) escrito em frânces, por sorte seu companheiro o sabia e leu as seguintes palavras: ''Esta É a Tumba de Takahat, sob o mar de areia está esse mar de sangue, aqui só há morte''",
         alternativas: [
@@ -101,6 +102,7 @@ export const perguntas = [
             },
         ]
     },
+    /* pergunta 5 */
     {
         enunciado:  "Antes que você consiga fazer isso, você percebe um súbito brilho, um brilho dourado, seduzente. Era o que você imginava, não como você imaginava, o corredor levou você em direção a um salão, uma ponte conectava você a outro corredor, essa ponte cruzava um rio, não de águas cristalinas, mas de ouro e jóias, milhões de toneladas de ouro, o brilho, você pensa, pode até cegar, tamanho o esplendor e riqueza que estava ali, a 3 passos. Você olha para seu companheiro, que tem a mesma reação, mas ele começa a andar em direção ao mar dourado, como uma mariposa encantada por uma lâmpada, palavras não saem da sua boca, talvez você queira fazer o mesmo, é, vá em direção ao ouro, nada mais importa, só o brilho do Sol. Tão súbito como o brilho, você ouve um ruído, que aumenta a cada segundo, você também percebe que o seu companheiro está sobre o ouro, dando uma de Tio Patinhas, governando-o, você:",
         alternativas: [
@@ -118,6 +120,7 @@ export const perguntas = [
             },
         ]
     },
+    /* pergunta 6 */
     {
         enunciado: "O ruído se torna ensurdecedor, tirando você do transe em que estava, você observa, sem acreditar uma onda, 7 metros ou sei lá, de moedas e jóias, vindo em direção da ponte, desesperado você tenta chamar o desgraçado pelo ouro, talvez ele tenha mesmo um poder sobre a mente fraca do homem, você não tem escolha e corre, corre em direção ao corredor seguinte, a onda atinge a ponte, com um peso avassalador de toneladas, destruindo-a e destruindo também os ossos e órgãos do agora irreconhecível cadáver, que com a pressão tingiu o ouro de carmesim, se tornando parte da riqueza amaldiçoada. Você está correndo pelo corredor, você não consegue olhar pra trás, você apenas: ",
         alternativas: [
@@ -138,6 +141,7 @@ export const perguntas = [
             },
         ]
     },
+    /* pergunta 7 */
     {
         enunciado: "Suas pernas não cogitam parar, olhando para as paredes você percebe buracos grandes, por toda parte e ângulo, tocas, delas vem ruídos, você apenas corre, você sabe o que acontecerá, você agora acredita no cigano, tem poças grandes de sangue coagulado pelo chão, que merda tá acontecendo? Você chegou numa câmara, um altar no meio, os barulhos vêm de poucos metros ao redor, seja lá o que for, logo estará na mesma câmara que você. Desesperadamente você observa o altar, e descobre quatro símbolos, sem pensar você pressiona o:",
         alternativas: [
