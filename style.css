@@ -54,6 +54,7 @@ button:hover {
 
 .caixa-resultado{
     display: none;
+    font-family: "Noto Serif", serif;
 }
 
 .caixa-resultado.mostrar{
