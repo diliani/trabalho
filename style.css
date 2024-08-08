@@ -25,11 +25,11 @@ body {
     max-width: 600px;
     text-align: center;
     padding: 20px;
-    font-family: "Noto Serif", serif;;
+    font-family: "Noto Serif", serif;
 }
 
 h1, .caixa-perguntas, .caixa-resultado{
-    font-family: 'Chakra Petch', sans-serif;
+    font-family: "Noto Serif", serif;
 }
 
 h1 {
