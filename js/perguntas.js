@@ -135,23 +135,20 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "Suas pernas não cogitam parar, olhando para as paredes você percebe buracos grandes, por toda parte e ângulo, tocas, delas vem ruídos, você apenas corre, você sabe o que acontecerá, você agora acredita no cigano, tem poças grandes de sangue coagulado pelo chão, que merda tá acontecendo? Você chegou numa câmara, um altar no meio, os barulhos vêm de poucos metros ao redor, seja lá o que for, logo estará na mesma câmara que você. Desesperadamente você observa o altar, e descobre quatro símbolos, sem pensar você pressiona o:",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao: [
-                    "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes.",
-                    "Ainda acha que os meios de desenho tradicionais são mais eficazes para a criatividade, por isso vem estimulando pessoas em suas redes sociais a fazer pintura em aquarela."
-                ],
+                texto: "Símbolo com o mar, ondas entalhadas",
+                afirmacao: "O altar sobe por uma passagem que se abriu, sobe rápido o suficiente para que você não veja os autores dos ruídos, segundos depois areia cai sobre você, você emerge no deserto, você corre, em direção ao rio que avistou ao longe, olhando para trás, apenas areia; você não lembra de muito, depois de 2 horas de caminhada você achou a civilização, na primeira oportunidade viajou ao Cairo, onde alugou uma pequena casa nos becos desérticos, e lá se trancafiou por um tempo. Umas semanas depois, você descobriu um novo hobbie, o bazar de Cairo, suas mercadorias, mercadores, diárias atrações que os mais diversos nativos e estrangeiros proporcionavam, só uma coisa o incomoda há dias, a impressão de que você avista o cigano, toda vez que o Sol indica o meio do dia, te observando, com uma feição estranha. É, ultimamente você tem ficado em casa; de noite, tranca a porta e as janelas e vai deitar rezando para que tudo tenha sido um sonho."
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
-                afirmacao: [
-                    "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!",
-                    "Compartilhou artes em redes sociais como forma de ensinar como se comunicar através da arte.",
-                    "Percebeu que muitas pessoas têm dificuldade em expressar suas ideias desenhando e acha que a IA é capaz de empoderar essas pessoas a tirarem ideias do papel."
-                ],
+                texto: "Símbolo com um escaravelho entalhado",
+                afirmacao: "Nada acontece, você pressiona de novo, todos uma, duas vezes. É o fim, você ouve muitos barulhos. Você é a oferenda do altar sangrento. Você será devorado vivo. Parte por parte. Por criaturas sombrias que a compreensão humana não está preparada para experimentar."
             },
+            {
+                texto: "Símbolo sujo com sangue coagulado",
+                afirmacao: "Nada acontece, você pressiona de novo, todos uma, duas vezes. É o fim, você ouve muitos barulhos. Você é a oferenda do altar sangrento. Você será devorado vivo. Parte por parte. Por criaturas sombrias que a compreensão humana não está preparada para experimentar."
+            }
         ]
-    }
+    },
 ];
