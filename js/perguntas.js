@@ -206,7 +206,7 @@ export const perguntas = [
     },
     /* pergunta 10 */
     {
-        enunciado: "Malik era um homem negro retinto, 2 metros e 10, extremamente forte, não fosse sua pureza, ele seria um grande problema. Mesmo carregando marcas de chicotes nas costas e ódio devido a acontecimentos passados, Malik era uma boa pessoa, que demonstrava coragem e bondade quando falava, o que era raro.",
+        enunciado: "Malik era um homem negro retinto, 2 metros e 10, extremamente forte, não fosse sua pureza, ele seria um grande problema. Mesmo carregando marcas de chicotes nas costas e ódio devido a acontecimentos passados, Malik era uma boa pessoa, que demonstrava coragem e bondade quando falava, o que era raro. Sim, eram as únicas opções. Malik definitivamente não era como os outros mercenários, o que incomodava é que ele mal falava e parecia nunca expressar uma opinião sobre o que você tinha requerido: proteção e ajuda para roubar algo. De qualquer forma você confiava nele e sentia uma certa pena e peso no coração.",
         alternativas: [
             {
                 texto: "Símbolo com o mar, ondas entalhadas",
@@ -224,7 +224,7 @@ export const perguntas = [
     },
     /* pergunta 11 */
     {
-        enunciado: "Era um sujeito chamativo, magro e bronzeado, usava turbante branco, tinha roupas finas com pedaços de seda vermelha, brincos dourados; pouco se sabia do sujeito, mas não era segredo que Ramés fazia parte de alguma guilda de assassinos nômades habilidosos com armas brancas.",
+        enunciado: "Era um sujeito chamativo, magro e bronzeado, usava turbante branco, tinha roupas finas com pedaços de seda vermelha, brincos dourados; pouco se sabia do sujeito, mas não era segredo que Ramés fazia parte de alguma guilda de assassinos nômades habilidosos com armas brancas. Sim, eram as únicas opções. Você mal acredita que pode conseguir serviços de alguém de tão alto calibre e periculosidade no bazar. Você definitivamente não deveria dar detalhes maiores para esse tipo de pessoa, membro de guildas de assassinos com habilidades para matar em segundos, mas você provavelmente necessita de proteção. De qualquer forma você está apreensivo dos talvez interesses que Ramés pode ter quando chegarem à localização X, quando seu serviço estiver terminado.",
         alternativas: [
             {
                 texto: "Símbolo com o mar, ondas entalhadas",
