@@ -26,8 +26,7 @@ export const perguntas = [
         ]
     },
     /* pergunta 1 */
-    // 
-    /* Mas uma pessoa mais nesse ''pequeno roubo'' seria de valia. O bazar, esse é o lugar dos mercenários e batedores de carteira, suas únicas opções, escolha um companheiro:*/ 
+    //  
     {
         enunciado: "Você tem o básico, uma lanterna de boa potência com pilhas extras, um cantil com água potável, obviamente, uma corda de escalada medindo 5 metros, umas barrinhas energéticas de chocolate, até um revólver calibre 38 com 6 balas, caso algo se torne apimentado, etcetera e etcetera, não tem motivo de preocupação.",
         alternativas: [
@@ -52,6 +51,7 @@ export const perguntas = [
         ]
     },
     /* pergunta 2 */
+    // 
     {
         enunciado: "Sim, eram as únicas opções, você decide não dar detalhes maiores para esse tipo de pessoa, com certeza traiçoeira, apenas o diz que precisa de ''duas mãos a mais'' para proteção. Vocês vão em direção à marcação do mapa, não há nada, exceto areia, norte, sul, nordeste e sudoeste, areia; você se desespera um pouco, pensando na probabilidade de ter sido enganado(a), até que seu companheiro percebe uma diferente forma no mar de areia, uma rocha, e a toca.",
         alternativas: [
@@ -206,7 +206,7 @@ export const perguntas = [
     },
     /* pergunta 9 */
     {
-        enunciado: "A vida nas ruas pobres e empoeiradas da cidade no deserto nunca foi fácil para Akbar, que desde criança viveu de roubos e invasões, apesar de quase ter-lhe custado uma mão (mas dois dedos sim) essa é sua única opção. Ele falava bastante e parecia amigável.",
+        enunciado: "A vida nas ruas pobres e empoeiradas da cidade no deserto nunca foi fácil para Akbar, que desde criança viveu de roubos e invasões, apesar de quase ter-lhe custado uma mão (mas dois dedos sim) essa é sua única opção. Ele falava bastante e parecia amigável. Sim, eram as únicas opções. Você acredita que será fácil lidar com Akbar mas que, por ser um ladrão, você tem uma desvantagem. Apesar da personalidade estranhamente cativante você decide não dar detalhes maiores para esse tipo de pessoa, com certeza traiçoeira, apenas o diz que precisa de proteção e, acima de tudo, direções de uma pessoa que conhece a cidade de olhos fechados.",
         alternativas: [
             {
                 texto: "Símbolo com o mar, ondas entalhadas",
