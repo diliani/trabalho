@@ -26,7 +26,7 @@ export const perguntas = [
     },
     /* pergunta 1 */
     {
-        enunciado: "Você tem o básico, lanterna, cantil com água, corda, umas barras de chocolate, até um revólver pra caso algo se torne apimentado, etcetera e etcetera, não tem motivo de preocupação, mas uma pessoa mais nesse ''pequeno roubo'' seria de valia. O bazar, esse é o lugar dos mercenários e batedores de carteira, suas únicas opções, escolha um companheiro:",
+        enunciado: "Você tem o básico, uma lanterna de boa potência com pilhas extras, um cantil com água potável, obviamente, uma corda de escalada medindo 5 metros, umas barrinhas energéticas de chocolate, até um revólver calibre 38 com 6 balas, caso algo se torne apimentado, etcetera e etcetera, não tem motivo de preocupação, mas uma pessoa mais nesse ''pequeno roubo'' seria de valia. O bazar, esse é o lugar dos mercenários e batedores de carteira, suas únicas opções, escolha um companheiro:",
         alternativas: [
             {
                 texto: "Akbar, um batedor de carteira",
