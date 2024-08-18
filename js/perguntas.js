@@ -188,7 +188,8 @@ export const perguntas = [
     },
     /* pergunta 9 */
     {
-        enunciado: "A vida nas ruas pobres e empoeiradas da cidade no deserto nunca foi fácil para Akbar, que desde criança viveu de roubos e invasões, apesar de quase ter-lhe custado uma mão (mas dois dedos sim) essa é sua única opção. Ele falava bastante e parecia amigável. Sim, eram as únicas opções. Você acredita que será fácil lidar com Akbar mas que, por ser um ladrão, você tem uma desvantagem. Apesar da personalidade estranhamente cativante você decide não dar detalhes maiores para esse tipo de pessoa, com certeza traiçoeira, apenas o diz que precisa de proteção e, acima de tudo, direções de uma pessoa que conhece a cidade de olhos fechados.",
+        enunciado: "A vida nas ruas pobres e empoeiradas da cidade no deserto nunca foi fácil para Akbar, que desde criança viveu de roubos e invasões, apesar de quase ter-lhe custado uma mão (mas dois dedos sim) essa é sua única opção. Ele falava bastante e parecia amigável. 
+        Sim, eram as únicas opções. Você acredita que será fácil lidar com Akbar mas que, por ser um ladrão, você tem uma desvantagem. Apesar da personalidade estranhamente cativante você decide não dar detalhes maiores para esse tipo de pessoa, com certeza traiçoeira, apenas o diz que precisa de proteção e, acima de tudo, direções de uma pessoa que conhece a cidade de olhos fechados.",
         alternativas: [
             {
                 texto: "Símbolo com o mar, ondas entalhadas",
