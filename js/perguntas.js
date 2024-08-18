@@ -71,25 +71,25 @@ export const perguntas = [
     },
     /* pergunta 3 */
     {
-        enunciado: "Você tem o básico, uma lanterna de boa potência com pilhas extras, um cantil com água potável, obviamente, uma corda de escalada medindo 5 metros, umas barrinhas energéticas de chocolate, até um revólver calibre 38 com 6 balas, caso algo se torne apimentado, etcetera e etcetera, não tem motivo de preocupação.",
+        enunciado: "Uma pessoa mais nesse ''pequeno roubo'' seria de valia. O bazar, esse é o lugar dos mercenários e batedores de carteira, suas únicas opções, escolha um companheiro:",
         alternativas: [
             {
                 texto: "Akbar, um batedor de carteira",
                 afirmacao: [ ""
                 ],
-                proxima: 4,
+                proxima: 9,
             },
             {
                 texto: "Malik, um ex-escravo do Sudão",
                 afirmacao: [ ""
                 ],
-                proxima: 5,
+                proxima: 10,
             },
             {
                 texto: "Ramés, um assassino de aluguel",
                 afirmacao: [ ""
                 ],
-                proxima: 6,
+                proxima: 11,
             },
         ]
     },
