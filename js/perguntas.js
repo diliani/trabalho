@@ -93,6 +93,7 @@ export const perguntas = [
             },
         ]
     },
+    // 
     {
         enunciado: "Não houve tempo para fala, o 'farol' fora tocado, rochas gemeram e se abriram sob seus pés, revelando um abismo escuro, por qual vocês dois caíram, e caíram mais, por uma espécie de túnel escuro, gosmento e liso, o desespero/desentendimento começou assim que caíram com um baque seco no que parecia ser um chão lajotado de pedras, estranhamente lisas. Talvez seja melhor:",
         alternativas: [
@@ -205,7 +206,7 @@ export const perguntas = [
     },
     /* pergunta 9 */
     {
-        enunciado: "Suas pernas não cogitam parar, olhando para as paredes você percebe buracos grandes, por toda parte e ângulo, tocas, delas vem ruídos, você apenas corre, você sabe o que acontecerá, você agora acredita no cigano, tem poças grandes de sangue coagulado pelo chão, que merda tá acontecendo? Você chegou numa câmara, um altar no meio, os barulhos vêm de poucos metros ao redor, seja lá o que for, logo estará na mesma câmara que você. Desesperadamente você observa o altar, e descobre quatro símbolos, sem pensar você pressiona o:",
+        enunciado: "A vida nas ruas pobres e empoeiradas da cidade no deserto nunca foi fácil para Akbar, que desde criança viveu de roubos e invasões, apesar de quase ter-lhe custado uma mão (mas dois dedos sim) essa é sua única opção. Ele falava bastante e parecia amigável.",
         alternativas: [
             {
                 texto: "Símbolo com o mar, ondas entalhadas",
@@ -223,7 +224,7 @@ export const perguntas = [
     },
     /* pergunta 10 */
     {
-        enunciado: "Suas pernas não cogitam parar, olhando para as paredes você percebe buracos grandes, por toda parte e ângulo, tocas, delas vem ruídos, você apenas corre, você sabe o que acontecerá, você agora acredita no cigano, tem poças grandes de sangue coagulado pelo chão, que merda tá acontecendo? Você chegou numa câmara, um altar no meio, os barulhos vêm de poucos metros ao redor, seja lá o que for, logo estará na mesma câmara que você. Desesperadamente você observa o altar, e descobre quatro símbolos, sem pensar você pressiona o:",
+        enunciado: "Malik era um homem negro retinto, 2 metros e 10, extremamente forte, não fosse sua pureza, ele seria um grande problema. Mesmo carregando marcas de chicotes nas costas e ódio devido a acontecimentos passados, Malik era uma boa pessoa, que demonstrava coragem e bondade quando falava, o que era raro.",
         alternativas: [
             {
                 texto: "Símbolo com o mar, ondas entalhadas",
@@ -241,7 +242,7 @@ export const perguntas = [
     },
     /* pergunta 11 */
     {
-        enunciado: "Suas pernas não cogitam parar, olhando para as paredes você percebe buracos grandes, por toda parte e ângulo, tocas, delas vem ruídos, você apenas corre, você sabe o que acontecerá, você agora acredita no cigano, tem poças grandes de sangue coagulado pelo chão, que merda tá acontecendo? Você chegou numa câmara, um altar no meio, os barulhos vêm de poucos metros ao redor, seja lá o que for, logo estará na mesma câmara que você. Desesperadamente você observa o altar, e descobre quatro símbolos, sem pensar você pressiona o:",
+        enunciado: "Era um sujeito chamativo, magro e bronzeado, usava turbante branco, tinha roupas finas com pedaços de seda vermelha, brincos dourados; pouco se sabia do sujeito, mas não era segredo que Ramés fazia parte de alguma guilda de assassinos nômades habilidosos com armas brancas.",
         alternativas: [
             {
                 texto: "Símbolo com o mar, ondas entalhadas",
