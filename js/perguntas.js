@@ -93,24 +93,6 @@ export const perguntas = [
             },
         ]
     },
-    // 
-    {
-        enunciado: "Não houve tempo para fala, o 'farol' fora tocado, rochas gemeram e se abriram sob seus pés, revelando um abismo escuro, por qual vocês dois caíram, e caíram mais, por uma espécie de túnel escuro, gosmento e liso, o desespero/desentendimento começou assim que caíram com um baque seco no que parecia ser um chão lajotado de pedras, estranhamente lisas. Talvez seja melhor:",
-        alternativas: [
-            {
-                texto:"Acender sua lanterna",
-                afirmacao: [ ""
-                ],
-                proxima: 9,
-            },
-            {
-                texto: "Perguntar como está seu companheiro",
-                afirmacao: [ ""
-                ],
-                proxima: 10,
-            },
-        ]
-    },
     /* pergunta 4 */
     {
         enunciado: "''Você tem uma lanterna imbecil? Traga já essa merda aqui! Onde estamos!? O que tá acontecendo merda!?!'' Depois de discutirem, e de você revelar seu real motivo de contrato (que fez seu companheiro rir ironica, mas nervosamente), vocês decidem buscar a saída. Você consegue sentir algo estranho no ar, excluindo o cheiro que ele traz, que 10 segundos nas suas narinas já foram suficientes para provocar ânsias. Depois de andarem pelo que pareceu 5 horas, vocês encontram um livro, ou melhor, um diário (em péssimas condições, e com um cheiro de carne podre impregnado) escrito em frânces, por sorte seu companheiro o sabia e leu as seguintes palavras: ''Esta É a Tumba de Takahat, sob o mar de areia está esse mar de sangue, aqui só há morte''",
@@ -256,6 +238,24 @@ export const perguntas = [
                 texto: "Símbolo sujo com sangue coagulado",
                 afirmacao: "Nada acontece, você pressiona de novo, todos uma, duas vezes. É o fim, você ouve muitos barulhos. Você é a oferenda do altar sangrento. Você será devorado vivo. Parte por parte. Por criaturas sombrias que a compreensão humana não está preparada para experimentar."
             }
+        ]
+    },
+    // 
+    {
+        enunciado: "Não houve tempo para fala, o 'farol' fora tocado, rochas gemeram e se abriram sob seus pés, revelando um abismo escuro, por qual vocês dois caíram, e caíram mais, por uma espécie de túnel escuro, gosmento e liso, o desespero/desentendimento começou assim que caíram com um baque seco no que parecia ser um chão lajotado de pedras, estranhamente lisas. Talvez seja melhor:",
+        alternativas: [
+            {
+                texto:"Acender sua lanterna",
+                afirmacao: [ ""
+                ],
+                proxima: 9,
+            },
+            {
+                texto: "Perguntar como está seu companheiro",
+                afirmacao: [ ""
+                ],
+                proxima: 10,
+            },
         ]
     },
 ];
