@@ -1,7 +1,7 @@
 export const perguntas = [
     /* pergunta 0 */
     {
-        enunciado: "Por anos silenciosos a Tumba de Takahat permaneceu selada e escondida da civilização, seu interior, diziam, abrigava ouro infinito, assim como também os corpos dos exploradores franceses que ousaram se aventurar em seu interior. Bom, pelo menos foi isso que o cigano de quem você comprou um mapa da localização da tal tumba disse. Bobagem, você pensou, exceto pelo tesouro, toda tumba deve abrigar algum tesouro. Você? Você é um(a) aventureiro(a) qualquer buscando fortuna fácil, apesar de estar confiante você tem um pensamento repetitivo enquanto anda pelas ruas desérticas observando seu mapa feito de papiro:s",
+        enunciado: "Por anos silenciosos a Tumba de Takahat permaneceu selada e escondida da civilização, seu interior, diziam, abrigava ouro infinito, assim como também os corpos dos exploradores franceses que ousaram se aventurar em seu interior. Bom, pelo menos foi isso que o cigano de quem você comprou um mapa da localização da tal tumba disse. Bobagem, você pensou, exceto pelo tesouro, toda tumba deve abrigar algum tesouro. Você? Você é um(a) aventureiro(a) qualquer buscando fortuna fácil, apesar de estar confiante você tem um pensamento repetitivo enquanto anda pelas ruas desérticas observando seu mapa feito de papiro:",
         alternativas: [
             {
                 texto: "Tenho o equipamento necessário pra isso?",
