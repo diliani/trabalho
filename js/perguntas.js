@@ -1,5 +1,6 @@
 export const perguntas = [
     /* pergunta 0 */
+    // 
     {
         enunciado: "Por anos silenciosos a Tumba de Takahat permaneceu selada e escondida da civilização, seu interior, diziam, abrigava ouro infinito, assim como também os corpos dos exploradores franceses que ousaram se aventurar em seu interior. Bom, pelo menos foi isso que o cigano de quem você comprou um mapa da localização da tal tumba disse. Bobagem, você pensou, exceto pelo tesouro, toda tumba deve abrigar algum tesouro. Você? Você é um(a) aventureiro(a) qualquer buscando fortuna fácil, apesar de estar confiante você tem um pensamento repetitivo enquanto anda pelas ruas desérticas observando seu mapa feito de papiro:",
         alternativas: [
@@ -25,8 +26,10 @@ export const perguntas = [
         ]
     },
     /* pergunta 1 */
+    // 
+    /* Mas uma pessoa mais nesse ''pequeno roubo'' seria de valia. O bazar, esse é o lugar dos mercenários e batedores de carteira, suas únicas opções, escolha um companheiro:*/ 
     {
-        enunciado: "Você tem o básico, uma lanterna de boa potência com pilhas extras, um cantil com água potável, obviamente, uma corda de escalada medindo 5 metros, umas barrinhas energéticas de chocolate, até um revólver calibre 38 com 6 balas, caso algo se torne apimentado, etcetera e etcetera, não tem motivo de preocupação, mas uma pessoa mais nesse ''pequeno roubo'' seria de valia. O bazar, esse é o lugar dos mercenários e batedores de carteira, suas únicas opções, escolha um companheiro:",
+        enunciado: "Você tem o básico, uma lanterna de boa potência com pilhas extras, um cantil com água potável, obviamente, uma corda de escalada medindo 5 metros, umas barrinhas energéticas de chocolate, até um revólver calibre 38 com 6 balas, caso algo se torne apimentado, etcetera e etcetera, não tem motivo de preocupação.",
         alternativas: [
             {
                 texto: "Akbar, um batedor de carteira",
@@ -67,6 +70,29 @@ export const perguntas = [
         ]
     },
     /* pergunta 3 */
+    {
+        enunciado: "Você tem o básico, uma lanterna de boa potência com pilhas extras, um cantil com água potável, obviamente, uma corda de escalada medindo 5 metros, umas barrinhas energéticas de chocolate, até um revólver calibre 38 com 6 balas, caso algo se torne apimentado, etcetera e etcetera, não tem motivo de preocupação.",
+        alternativas: [
+            {
+                texto: "Akbar, um batedor de carteira",
+                afirmacao: [ ""
+                ],
+                proxima: 4,
+            },
+            {
+                texto: "Malik, um ex-escravo do Sudão",
+                afirmacao: [ ""
+                ],
+                proxima: 5,
+            },
+            {
+                texto: "Ramés, um assassino de aluguel",
+                afirmacao: [ ""
+                ],
+                proxima: 6,
+            },
+        ]
+    },
     {
         enunciado: "Não houve tempo para fala, o 'farol' fora tocado, rochas gemeram e se abriram sob seus pés, revelando um abismo escuro, por qual vocês dois caíram, e caíram mais, por uma espécie de túnel escuro, gosmento e liso, o desespero/desentendimento começou assim que caíram com um baque seco no que parecia ser um chão lajotado de pedras, estranhamente lisas. Talvez seja melhor:",
         alternativas: [
