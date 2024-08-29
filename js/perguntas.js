@@ -50,7 +50,7 @@ export const perguntas = [
     },
     /* pergunta 2 */
     {
-        enunciado: "O cigano era um sujeito muito estranho, tinha uma voz distinta, que dava um aspecto de velhice, isso não falando da sua aparência, nada higiênica; um olho branco que dava medo. ''A Gruta Imunda é um lugar real, seu interior era inteiramente dourado, com milhares de toneladas e toneladas de ouro, mas aqueles franceses sarnentos tiveram que desflorar o santuário, sujá-lo com seu sangue. Se tu vai a este ninho de sujeira e poder, leva sorte e coragem contigo, leva este mapa e procura o Inseto...''",
+        enunciado: "O cigano era um sujeito muito estranho, tinha uma voz distinta, que dava um aspecto de velhice, isso não falando da sua aparência, nada higiênica; um olho branco que dava medo. ''A Gruta Imunda é um lugar real, seu interior era inteiramente dourado, com milhares de toneladas e toneladas de ouro, mas aqueles franceses sarnentos tiveram que desflorar o santuário, sujá-lo com seu sangue. Se tu vai a este ninho de sujeira e poder, leva sorte e coragem contigo, leva este mapa e alimente o Inseto...''",
         alternativas: [
             {
                 texto: "Você confere seu equipamento",
@@ -507,11 +507,11 @@ export const perguntas = [
     },
     /* pergunta 32 */
     {
-        enunciado: "Você percebe um súbito brilho, um brilho dourado, seduzente. Era o que você imginava, não como você imaginava, o corredor levou você em direção a um salão, uma ponte conectava você a outro corredor, essa ponte cruzava um rio, não de águas cristalinas, mas de ouro e jóias, milhões de toneladas de ouro, o brilho, você pensa, pode até cegar, tamanho o esplendor e riqueza que estava ali, a 3 passos. Palavras não conseguem escapar da sua boca, como uma mariposa encantada por uma lâmpada, você sente vontade de ir até o tesouro, é, vá em direção ao ouro, nada mais importa, só o brilho do Sol. Você:",
+        enunciado: "Você percebe um súbito brilho, um brilho dourado, seduzente. Era o que você imaginava, não como você imaginava, o corredor levou você em direção a um salão, uma ponte conectava você a outro corredor, essa ponte cruzava um rio, não de águas cristalinas, mas de ouro e jóias, milhões de toneladas de ouro, o brilho, você pensa, pode até cegar, tamanho o esplendor e riqueza que estava ali, a 3 passos. Palavras não conseguem escapar da sua boca, como uma mariposa encantada por uma lâmpada, você sente vontade de ir até o tesouro, é, vá em direção ao ouro, nada mais importa, só o brilho do Sol. Você:",
         alternativas: [
             {
                 texto: "Vai até o tesouro",
-                afirmacao: [ "Tão súbito como foi o brilho, você ouve um ruído, que aumenta a cada segundo, você está feliz sobre o ouro, dando uma de Tio Patinhas, governando-o. O ruído se torna ensurdecedor, tirando você do transe em que estava, você observa, sem acreditar uma onda, 7 metros ou sei lá, de moedas e jóias, vindo em direção da ponte, desesperado você tenta escapar, mas tentando, suas pernas afundam nas moedas e pepitas, talvez ele tenha mesmo um poder sobre a mente fraca do homem, você não tem escolha e se abaixa, esperando o impacto; a onda atinge a ponte, com um peso avassalador de toneladas, destruindo-a e destruindo também os seus ossos e órgãos, a pressão tingiu o ouro com seu sangue carmesim, você se tornou parte da riqueza amaldiçoada."
+                afirmacao: [ "Tão súbito como foi o brilho, você ouve um ruído, que aumenta a cada segundo, você está feliz sobre o ouro, dando uma de Tio Patinhas, governando-o. O ruído se torna ensurdecedor, tirando você do transe em que estava, você observa, sem acreditar, uma onda, 7 metros ou sei lá, de moedas e jóias, vindo em direção da ponte, desesperado você tenta escapar, mas tentando, suas pernas afundam nas moedas e pepitas, talvez ele tenha mesmo um poder sobre a mente fraca do homem, você não tem escolha e se abaixa, esperando o impacto; a onda atinge a ponte, com um peso avassalador de toneladas, destruindo-a e destruindo também os seus ossos e órgãos, a pressão tingiu o ouro com seu sangue carmesim, você se tornou parte da riqueza amaldiçoada."
                 ],
             },
             {
@@ -572,14 +572,170 @@ export const perguntas = [
     },
     /* pergunta 36 */
     {
-        enunciado: "Tão súbito como foi o brilho, você ouve um ruído, que aumenta a cada segundo, você está feliz sobre o ouro, dando uma de Tio Patinhas, governando-o. O ruído se torna ensurdecedor, tirando você do transe em que estava, você observa, sem acreditar uma onda, 7 metros ou sei lá, de moedas e jóias, vindo em direção da ponte, desesperado você tenta escapar, mas tentando, suas pernas afundam nas moedas e pepitas, você não tem escolha e se abaixa, esperando o impacto; a onda atinge a ponte, com um peso avassalador de toneladas, destruindo-a e destruindo também os seus ossos e órgãos, a pressão tingiu o ouro com seu sangue carmesim, você se tornou parte da riqueza amaldiçoada.",
+        enunciado: "Você olha ao lado a continuação do corredor, mas como se fosse uma estrela cadente no céu escuro, você percebe uma pequena moeda de formato estranho no chão, apanha-a e lhe dá uma pequena polida com a camisa. Tão súbito como foi o brilho, você ouve um ruído, que aumenta a cada segundo, você olha mais ambicioso ainda para o ouro, desejando-o. O ruído se torna ensurdecedor, tirando você do transe em que estava, você observa, sem acreditar, uma onda, 7 metros ou sei lá, de moedas e jóias, vindo em direção da ponte, desesperado você tenta escapar, mas parece que há uma força contrária à sua vontade, suas pernas hesitam, talvez Ele tenha mesmo um poder sobre a mente fraca do homem, você grita desesperado e consegue correr, alcançando por pouco a outra passagem. Você sabe que a onda atingiu a ponte, e que com o peso avassalador de toneladas, a destruiu. Você está correndo pelo corredor, você não consegue olhar pra trás, você apenas:",
+        alternativas: [
+            {
+                texto:"Corre...",
+                afirmacao: [ ""
+                ],
+                proxima: 40,
+            },
+        ]
+    },
+    /* pergunta 37 */
+    {
+        enunciado: "''Você tem uma lanterna?? A, que bom, Deus, traga já ela aqui! Onde estamos!? O que tá acontecendo!?!'' Depois de discutirem, e de você revelar seu real motivo de contrato (que fez seu companheiro rir ironica, mas nervosamente), vocês decidem buscar a saída. Você consegue sentir algo estranho no ar, excluindo o cheiro que ele traz, que 10 segundos nas suas narinas já foram suficientes para provocar ânsias. Não durou muito para as pedras lisas findarem, paredes e chão agora eram de um tom de marrom, preto e carmesim, dessa vez você não aguentou o que seu nariz indicava, você vomitou e com toda a sua falsa esperança esperou que aquilo por toda parte não fosse sangue velho. Depois de andarem pelo que pareceu 5 horas, vocês encontram um livro, ou melhor, um diário (em péssimas condições, e com um cheiro de carne podre impregnado) escrito em frânces, por sorte seu companheiro o sabia e leu o seguinte:",
+        alternativas: [
+            {
+                texto: "O diário",
+                afirmacao: [ ""
+                ],
+                proxima: 41,
+            },
+        ]
+    },
+    /* pergunta 38 */
+    {
+        enunciado: "''Você tem uma lanterna imbecil? Traga já essa merda aqui! Onde estamos!? O que tá acontecendo merda!?!'' Depois de discutirem, e de você revelar seu real motivo de contrato (que fez seu companheiro rir ironica, mas nervosamente), vocês decidem buscar a saída. Você consegue sentir algo estranho no ar, excluindo o cheiro que ele traz, que 10 segundos nas suas narinas já foram suficientes para provocar ânsias. Não durou muito para as pedras lisas findarem, paredes e chão agora eram de um tom de marrom, preto e carmesim, dessa vez você não aguentou o que seu nariz indicava, você vomitou e com toda a sua falsa esperança esperou que aquilo por toda parte não fosse sangue velho. Depois de andarem pelo que pareceu 5 horas, vocês encontram um livro, ou melhor, um diário (em péssimas condições, e com um cheiro de carne podre impregnado) escrito em frânces, por sorte seu companheiro o sabia e leu o seguinte:",
+        alternativas: [
+            {
+                texto: "O diário",
+                afirmacao: [ ""
+                ],
+                proxima: 42,
+            },
+        ]
+    },
+    /* pergunta 39 */
+    {
+        enunciado: "Você percebe um súbito brilho, um brilho dourado, seduzente. Era o que você imaginava, não como você imaginava, o corredor levou você em direção a um salão, uma ponte conectava você a outro corredor, essa ponte cruzava um rio, não de águas cristalinas, mas de ouro e jóias, milhões de toneladas de ouro, o brilho, você pensa, pode até cegar, tamanho o esplendor e riqueza que estava ali, a 3 passos. Você olha para seu companheiro, que tem a mesma reação, mas ele começa a andar em direção ao mar dourado, como uma mariposa encantada por uma lâmpada, palavras não saem da sua boca, talvez você queira fazer o mesmo, é, vá em direção ao ouro, nada mais importa, só o brilho do Sol. Tão súbito como o brilho, você ouve um ruído, que aumenta a cada segundo, você também percebe que o seu companheiro está sobre o ouro, dando uma de Tio Patinhas, governando-o, você:",
+        alternativas: [
+            {
+                texto: "Vai até ele",
+                afirmacao: [ ""
+                ],
+                proxima: 43,
+            },
+            {
+                texto: "Tenta chamá-lo",
+                afirmacao: [ ""
+                ],
+                proxima: 43,
+            },
+        ]
+    },
+    /* pergunta 40 */
+    {
+        enunciado: "Suas pernas não cogitam parar, olhando para as paredes você percebe buracos grandes, por toda parte e ângulo, tocas, delas vem ruídos, você apenas corre, você sabe o que acontecerá, você amaldiçoa e pragueja o cigano, tem poças grandes de sangue coagulado pelo chão, que merda tá acontecendo? Você chegou numa câmara, um altar no meio, os barulhos vêm de poucos metros ao redor, seja lá o que for, logo estará na mesma câmara que você. Desesperadamente você observa o altar, e descobre quatro símbolos, sem pensar você pressiona o:",
+        alternativas: [
+            {
+                texto: "Símbolo com o mar, ondas entalhadas",
+                afirmacao: "O altar sobe por uma passagem que se abriu, sobe rápido o suficiente para que você não veja os autores dos ruídos, segundos depois areia cai sobre você, você emerge no deserto, você corre, em direção não pensada, olhando para trás, apenas areia; você não lembra de muito, depois de 2 horas de caminhada você achou a civilização, na primeira oportunidade viajou ao Cairo, onde alugou uma pequena casa nos becos desérticos, e lá se trancafiou por um tempo. Umas semanas depois, você descobriu um novo hobbie, o bazar de Cairo, suas mercadorias, mercadores, diárias atrações que os mais diversos nativos e estrangeiros proporcionavam, só uma coisa o incomoda há dias, a impressão de que você avista o cigano, toda vez que o Sol indica o meio do dia, te observando, com uma feição estranha. É, ultimamente você tem ficado em casa; de noite tranca a porta e as janelas, e vai deitar rezando para que tudo tenha sido um sonho."
+            },
+            {
+                texto: "Símbolo com um escaravelho entalhado",
+                afirmacao: "Nada acontece, você pressiona de novo, todos uma, duas vezes. É o fim, você ouve muitos barulhos. Você é a oferenda do altar sangrento. Você será devorado vivo. Parte por parte. Por criaturas sombrias que a compreensão humana não está preparada para experimentar."
+            },
+            {
+                texto: "Símbolo sujo com sangue coagulado",
+                afirmacao: "Nada acontece, você pressiona de novo, todos uma, duas vezes. É o fim, você ouve muitos barulhos. Você é a oferenda do altar sangrento. Você será devorado vivo. Parte por parte. Por criaturas sombrias que a compreensão humana não está preparada para experimentar."
+            }
+        ]
+    },
+    /* pergunta 41 */
+    {
+        enunciado: "''C'est le misérable Tombeau Coagulée, on peut le voir depuis les mares de sang séché à l'entrée, sur le sol et les murs, juste du sang, pas de fragments d'os, j'espère que c'est du sang animal, ce n'est pas une meilleure nouvelle, l'odeur est insupportable... Des bruits des lignes interminables devant c'est la fin des boules de san'' - ''Esta é a desgraçada Tumba Coagulada, percebemos pelas poças de sangue coagulado na entrada, apenas sangue, nenhum fragmento de osso, espero que seja sangue animal, não que seja uma notícia melhor, o cheiro é insuportável... Barulhos infindáveis à frente, é o fim, bolas de san",
         alternativas: [
             {
                 texto:"Vocês seguem em frente, calados, apreensivos e com um sentimentos esquisitos",
                 afirmacao: [ ""
                 ],
+                proxima: 44,
+            },
+        ]
+    },
+    /* pergunta 42 */
+    {
+        enunciado: "''C'est le misérable Tombeau Coagulée, on peut le voir depuis les mares de sang séché à l'entrée, sur le sol et les murs, juste du sang, pas de fragments d'os, j'espère que c'est du sang animal, ce n'est pas une meilleure nouvelle, l'odeur est insupportable... Des bruits des lignes interminables devant c'est la fin des boules de san'' - ''Esta é a desgraçada Tumba Coagulada, percebemos pelas poças de sangue coagulado na entrada, apenas sangue, nenhum fragmento de osso, espero que seja sangue animal, não que seja uma notícia melhor, o cheiro é insuportável... Barulhos infindáveis à frente, é o fim, bolas de san",
+        alternativas: [
+            {
+                texto:"Vocês seguem em frente, calados, apreensivos e com um sentimentos esquisitos",
+                afirmacao: [ ""
+                ],
+                proxima: 45,
+            },
+        ]
+    },
+    /* pergunta 43 */
+    {
+        enunciado: "O ruído se torna ensurdecedor, tirando você do transe em que estava, você observa, sem acreditar uma onda, 7 metros ou sei lá, de moedas e jóias, vindo em direção da ponte, desesperado você tenta chamar o desgraçado pelo ouro, talvez ele tenha mesmo um poder sobre a mente fraca do homem, você não tem escolha e corre, corre em direção ao corredor seguinte, a onda atinge a ponte, com um peso avassalador de toneladas, destruindo-a e destruindo também os ossos e órgãos do agora irreconhecível cadáver, que com a pressão tingiu o ouro de carmesim, se tornando parte da riqueza amaldiçoada. Você está correndo pelo corredor, você não consegue olhar pra trás, você apenas:",
+        alternativas: [
+            {
+                texto:"Corre...",
+                afirmacao: [ ""
+                ],
                 proxima: 40,
             },
+        ]
+    },
+    /* pergunta 44 */
+    {
+        enunciado: "Você percebe um súbito brilho, um brilho dourado, seduzente. Era o que você imaginava, não como você imaginava, o corredor levou você em direção a um salão, uma ponte conectava você a outro corredor, essa ponte cruzava um rio, não de águas cristalinas, mas de ouro e jóias, milhões de toneladas de ouro, o brilho, você pensa, pode até cegar, tamanho o esplendor e riqueza que estava ali, a 3 passos. Você olha para seu companheiro, que tem a mesma reação, palavras não saem da sua boca, como uma mariposa encantada por uma lâmpada, você sente vontade de ir até o tesouro, é, vá em direção ao ouro, nada mais importa, só o brilho do Sol, você sente prazer ao tocas as pequenas pepitas brilhantes sobre a ponte. Tão súbito como o brilho, você ouve um ruído, que aumenta a cada segundo. O ruído se torna ensurdecedor, Malik te dá um puxão, tirando você do transe em que estava, você observa, sem acreditar, uma onda, 7 metros ou sei lá, de moedas e jóias, vindo em direção da ponte, desesperado você corre, corre em direção ao corredor seguinte, a onda atinge a ponte, com um peso avassalador de toneladas, destruindo-a. Vocês estão correndo pelo corredor, você não consegue olhar pra trás, vocês apenas:",
+        alternativas: [
+            {
+                texto:"Correm...",
+                afirmacao: [ ""
+                ],
+                proxima: 46,
+            },
+        ]
+    },
+    /* pergunta 45 */
+    {
+        enunciado: "Você percebe um súbito brilho, um brilho dourado, seduzente. Era o que você imaginava, não como você imaginava, o corredor levou você em direção a um salão, uma ponte conectava você a outro corredor, essa ponte cruzava um rio, não de águas cristalinas, mas de ouro e jóias, milhões de toneladas de ouro, o brilho, você pensa, pode até cegar, tamanho o esplendor e riqueza que estava ali, a 3 passos. Você olha para seu companheiro, que tem a mesma reação, palavras não saem da sua boca, como uma mariposa encantada por uma lâmpada, você sente vontade de ir até o tesouro, é, vá em direção ao ouro, nada mais importa, só o brilho do Sol, você sente prazer ao tocas as pequenas pepitas brilhantes sobre a ponte. Tão súbito como o brilho, você ouve um ruído, que aumenta a cada segundo. O ruído se torna ensurdecedor, Ramés te dá um puxão, tirando você do transe em que estava, você observa, sem acreditar, uma onda, 7 metros ou sei lá, de moedas e jóias, vindo em direção da ponte, desesperado você corre, corre em direção ao corredor seguinte, a onda atinge a ponte, com um peso avassalador de toneladas, destruindo-a. Vocês estão correndo pelo corredor, você não consegue olhar pra trás, vocês apenas:",
+        alternativas: [
+            {
+                texto:"Correm...",
+                afirmacao: [ ""
+                ],
+                proxima: 47,
+            },
+        ]
+    },
+    /* pergunta 46 */
+    {
+        enunciado: "Suas pernas não cogitam parar, olhando para as paredes você percebe buracos grandes, por toda parte e ângulo, tocas, delas vem ruídos, você apenas corre, você sabe o que acontecerá, você amaldiçoa e pragueja o cigano, tem poças grandes de sangue coagulado pelo chão, que merda tá acontecendo? Vocês chegaram numa câmara, um altar no meio, os barulhos vêm de poucos metros ao redor, seja lá o que for, logo estará na mesma câmara que você. Desesperadamente vocês observam o altar, e descobrem quatro símbolos, sem pensar você pressiona o:",
+        alternativas: [
+            {
+                texto: "Símbolo com o mar, ondas entalhadas",
+                afirmacao: "Antes que algo pudesse acontecer, os Devoradores se mostraram, insetos com uma carapaça grande e redonda, suja e fedorenta, suas feições não eram terrestres, suas 'bocas' eram como tentáculos serrilhados que soltavam uma bile provavelmente digestiva e ácida, tinham muitas patas como centópeias asquerosas e pinças como escorpiões, uma dessas pinças dilacerou a perna de Malik, que como último esforço, me ajudou a subir no altar. ''Váá...''. O altar então sobe por uma passagem que se abriu; segundos depois areia cai sobre você, você emerge no deserto, você corre, em direção não pensada, olhando para trás, apenas areia; você não lembra de muito, depois de 2 horas de corrida você achou a civilização, na primeira oportunidade viajou ao Canadá, onde alugou uma pequena casa nos subúrbios, e lá se trancafiou por um tempo. Mesmo meses depois, você continua vendo Devoradores espreitando-se, coisas da sua cabeça, mas uma coisa bastante real o incomoda há dias, a impressão de que você avista o cigano, toda vez que o Sol indica o meio do dia, te observando e rindo, com uma forma diferente, o corpo inchado, gosmento e verde. É, ultimamente você tem ficado em casa; de noite tranca a porta e as janelas, e vai deitar rezando para que tudo tenha sido um sonho."
+            },
+            {
+                texto: "Símbolo com um escaravelho entalhado",
+                afirmacao: "Nada acontece, você pressiona de novo, todos uma, duas vezes. É o fim, você ouve muitos barulhos. Vocês são a oferenda do altar sangrento. Vocês serão devorados vivos. Parte por parte. Por criaturas sombrias que a compreensão humana não está preparada para experimentar."
+            },
+            {
+                texto: "Símbolo sujo com sangue coagulado",
+                afirmacao: "Nada acontece, você pressiona de novo, todos uma, duas vezes. É o fim, você ouve muitos barulhos. Vocês são a oferenda do altar sangrento. Vocês serão devorados vivos. Parte por parte. Por criaturas sombrias que a compreensão humana não está preparada para experimentar."
+            }
+        ]
+    },
+    /* pergunta 47 */
+    {
+        enunciado: "Suas pernas não cogitam parar, olhando para as paredes você percebe buracos grandes, por toda parte e ângulo, tocas, delas vem ruídos, você apenas corre, você sabe o que acontecerá, você amaldiçoa e pragueja o cigano, tem poças grandes de sangue coagulado pelo chão, que merda tá acontecendo? Vocês chegaram numa câmara, um altar no meio, os barulhos vêm de poucos metros ao redor, seja lá o que for, logo estará na mesma câmara que você. Desesperadamente vocês observam o altar, e descobrem quatro símbolos, sem pensar você pressiona o:",
+        alternativas: [
+            {
+                texto: "Símbolo com o mar, ondas entalhadas",
+                afirmacao: "Antes que algo pudesse acontecer, uma Besta aparece, um inseto com uma carapaça grande e redonda, suja e fedorenta, suas feições não eram terrestres, suas 'bocas' eram como tentáculos serrilhados que soltavam uma bile provavelmente digestiva e ácida, tinha muitas patas como centópeias asquerosas e pinças como escorpiões, como último esforço, Ramés desceu do altar e sacou a espada. ''Vá agora!!!''. A Besta então avançou, com uma força abaladora, transformando a cabeça do mercenário em dezenas de pequenas fibras de carne, foi horrível. O altar logo então subiu por uma passagem que se abriu; segundos depois areia cai sobre você, você emerge no deserto, você corre, em direção não pensada, olhando para trás, apenas areia; você não lembra de muito, depois de 2 horas de corrida você achou a civilização, na primeira oportunidade viajou ao Panamá, onde alugou uma pequena casa na praia, lá se trancafiando por um tempo. Mesmo meses depois, você continua vendo Ramés espreitando-se, sem sua cabeça, parte do torso e braço esquerdo, o trauma foi muito severo... Mas uma coisa bastante real o incomoda há dias, a impressão de que você avista o cigano, toda vez que o Sol indica o meio do dia, te observando e rindo, com uma forma diferente, o corpo vermelho, com a cabeça estranhamente grande e gargalhando. É, ultimamente você tem ficado em casa; de noite tranca a porta e as janelas, e vai deitar rezando para que tudo tenha sido um sonho."
+            },
+            {
+                texto: "Símbolo com um escaravelho entalhado",
+                afirmacao: "Nada acontece, você pressiona de novo, todos uma, duas vezes. É o fim, você ouve muitos barulhos. Vocês são a oferenda do altar sangrento. Vocês serão devorados vivos. Parte por parte. Por criaturas sombrias que a compreensão humana não está preparada para experimentar."
+            },
+            {
+                texto: "Símbolo sujo com sangue coagulado",
+                afirmacao: "Nada acontece, você pressiona de novo, todos uma, duas vezes. É o fim, você ouve muitos barulhos. Vocês são a oferenda do altar sangrento. Vocês serão devorados vivos. Parte por parte. Por criaturas sombrias que a compreensão humana não está preparada para experimentar."
+            }
         ]
     },
     /* pergunta 2 */
