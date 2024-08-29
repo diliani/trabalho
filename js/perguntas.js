@@ -112,12 +112,6 @@ export const perguntas = [
                 ],
                 proxima: 9,
             },
-            {
-                texto: "Centro da cidade",
-                afirmacao: [ ""
-                ],
-                proxima: 10,
-            },
         ]
     },
     /* pergunta 5 */
@@ -170,7 +164,20 @@ export const perguntas = [
     },
     /* pergunta 9 */
     {
-        enunciado: "Por algum motivo você pensa ser mais seguro ir até o X por fora do muro da cidade. Você vai em direção ao esquisito Portão Oeste, os guardas nem parecem fazer seu trabalho, o que talvez seja bom pra você, porque isso significa 0 perguntas. Você caminha bem rente à parede, como se estivesse numa prancha com medo de cair no mar de areia ao lado. As casas deste lado oeste da cidade formam uma favela árabe, casinhas compartilhadas vertical e horizontalmente, uma vista agoniante pra ser sincero. Você estava tão distraído que nem percebeu uma Naja 5 pés à frente, era uma cuspideira, _______. Apesar da viagem quase acabar cedo demais, vocês continuam.",
+        enunciado: "Por algum motivo você pensa ser mais seguro ir até o X por fora do muro da cidade. Você vai em direção ao esquisito Portão Oeste, os guardas nem parecem fazer seu trabalho, o que talvez seja bom pra você, porque isso significa 0 perguntas. Você caminha bem rente à parede, como se estivesse numa prancha com medo de cair no mar de areia ao lado. As casas deste lado oeste da cidade formam uma favela árabe, casinhas compartilhadas vertical e horizontalmente, uma vista agoniante pra ser sincero. Você estava tão distraído que nem percebeu uma Naja 5 pés à frente, era uma cuspideira, com reflexo sobre-humano você desvia do veneno fatal esguichado em direção dos seus olhos, apenas por alguns centímetros, sorte que nenhum mosquito picou seu pescoço, provavelmente seria seu fim. Você contorna o réptil traiçoeiro rapidamente. Apesar da viagem quase acabar cedo demais, você continua.",
+        alternativas: [
+            {
+                texto: "O Deserto",
+                afirmacao: [ ""
+                ],
+                proxima: 12,
+            },
+        ]
+    },
+    /* pergunta 10 */
+    // 
+    {
+        enunciado: "Por algum motivo você pensa ser mais seguro ir até o X por fora do muro da cidade. Você vai em direção ao esquisito Portão Oeste, os guardas nem parecem fazer seu trabalho, o que talvez seja bom pra você, porque isso significa 0 perguntas. Você caminha bem rente à parede, como se estivesse numa prancha com medo de cair no mar de areia ao lado. As casas deste lado oeste da cidade formam uma favela árabe, casinhas compartilhadas vertical e horizontalmente, uma vista agoniante pra ser sincero. Você estava tão distraído que nem percebeu uma Naja 5 pés à frente, era uma cuspideira, com reflexo sobre-humano você desvia do veneno fatal esguichado em direção dos seus olhos, apenas por alguns centímetros, sorte que nenhum mosquito picou seu pescoço, provavelmente seria seu fim. Você contorna o réptil traiçoeiro rapidamente. Apesar da viagem quase acabar cedo demais, você continua.",
         alternativas: [
             {
                 texto: "O Deserto",
