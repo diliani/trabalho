@@ -134,7 +134,7 @@ export const perguntas = [
                 texto: "Você observa seu mapa",
                 afirmacao: [ ""
                 ],
-                proxima: 11,
+                proxima: 17,
             },
         ]
     },
@@ -146,7 +146,7 @@ export const perguntas = [
                 texto: "Você observa seu mapa",
                 afirmacao: [ ""
                 ],
-                proxima: 11,
+                proxima: 18,
             },
         ]
     },
@@ -184,6 +184,401 @@ export const perguntas = [
                 afirmacao: [ ""
                 ],
                 proxima: 12,
+            },
+        ]
+    },
+    /* pergunta 11 */
+     {
+        enunciado: "No seu mapa, em vermelho carmesim, havia um X marcado, alguns metros de distância da Cidade Desértica, o que o confundiu, pois como tanta riqueza (ou desgraça) estava tão próxima da civilização ''abandonada'? Estranho, mas você deixou isso de lado, pensando qual rota seguiria:",
+        alternativas: [
+            {
+                texto: "Bazar",
+                afirmacao: [ ""
+                ],
+                proxima: 13,
+            },
+            {
+                texto: "Fora do muro",
+                afirmacao: [ ""
+                ],
+                proxima: 14,
+            },
+            {
+                texto: "Centro da cidade",
+                afirmacao: [ ""
+                ],
+                proxima: 15,
+            },
+        ]
+    },
+    /* pergunta 12 */
+    {
+        enunciado: "Você vai em direção à marcação do mapa, não há nada, exceto areia, norte, sul, nordeste e sudoeste, não havia nem sinal de cactos ou serpentes, camelos, nômades, apenas areia; você se desespera um pouco, pensando na probabilidade de ter sido enganado, até que percebe uma diferente forma no mar de areia, uma rocha, e a toca.",
+        alternativas: [
+            {
+                texto: "Você olha mais a rocha, curioso",
+                afirmacao: [ ""
+                ],
+                proxima: 16,
+            },
+            {
+                texto: "Você pergunta a si mesmo o que era aquilo",
+                afirmacao: [ ""
+                ],
+                proxima: 16,
+            },
+        ]
+    },
+    /* pergunta 13 */
+    {
+        enunciado: "O bazar da Cidade Arenosa era mais como uma atração num circo de loucuras, um ecossistema que nunca é interrompido, as tendas de cores chamativas, as especiarias, um oásis de pessoas e ladrões (em poucos minutos você presenciou 4 roubos). Caminhando e conversando com Akbar sobre a cidade, você distraidamente esbarra numa caixa de maçãs, atraindo olhos e um ladrão que você consegue ver passando 3 para debaixo do seu turbante laranja, por algum motivo ele aponta para você falando algo num dialeto árabe para o ambulante, basicamente acusando você do roubo dele, julgando o fato de ter uma cimitarra sacada vindo em sua direção, você já estava preparado para correr quando seu companheiro rapidamente saca uma adaga e a desliza para dentro do antebraço do ambulante, tão rápido como entrou ele a faz sair, mostrando um tendão e veias partidas jorrando sangue na areia, atraindo todos os olhos do bazar, inclusive da Guarda, sem escolha vocês correm por todo o Deserto DeGente. Correr na estrada de poeira e areia batida com um sol de sabe-se lá quantas dezenas de graus não foi uma boa experiência.",
+        alternativas: [
+            {
+                texto: "O Deserto",
+                afirmacao: [ ""
+                ],
+                proxima: 19,
+            },
+        ]
+    },
+    /* pergunta 14 */
+    {
+        enunciado: "Por algum motivo você pensa ser mais seguro ir até o X por fora do muro da cidade. Akbar te leva até uma viela, depois aos fundos de várias casinhas sobre casinhas, um buraco no muro, atenção bem menor. Vocês caminham bem rente à parede, como se estivessem numa prancha com medo de cair no mar de areia ao lado. As casas deste lado oeste da cidade formam uma favela árabe, casinhas compartilhadas vertical e horizontalmente, uma vista agoniante pra ser sincero. Você estava tão distraído que nem percebeu uma Naja 5 pés à frente, era uma cuspideira, Akbar te empurra para a parede, e estranhamente de maneira calma pisa na cabeça da serpente e te acena para prosseguir, sem falar nada. Apesar da viagem quase acabar cedo demais, vocês continuam.",
+        alternativas: [
+            {
+                texto: "O Deserto",
+                afirmacao: [ ""
+                ],
+                proxima: 19,
+            },
+        ]
+    },
+    /* pergunta 15 */
+    {
+        enunciado: "Seu companheiro te leva até uma fonte no meio da cidade, lá vocês esperam uns 10 minutos por Rafihd, um menino dono de camelos, seu parceiro te estica a mão, exigindo ouro, você fica sem jeito, o único que tinha já estava com o mercenário. Você vasculha sua mochila em procura de algo; tirando os itens, Rafihd observa o chocolate e aponta, resmungando ou falando numa língua que você não tem conhecimento, vocês fazem uma troca, baseada em acenos e frases arabescas de Akbar. Camelos eram mais confortáveis do que você imaginava, mais rápidos também, a viagem foi tranquilizante, depois de observar a sociedade nessa cidade-oásis do deserto, seu bazar e alguns roubos, você atravessa o limite do muro e adentra o inóspito.",
+        alternativas: [
+            {
+                texto: "O Deserto",
+                afirmacao: [ ""
+                ],
+                proxima: 19,
+            },
+        ]
+    },
+    /* pergunta 16 */
+    {
+        enunciado: "Não houve tempo, o Farol fora tocado, rochas gemeram e se abriram sob seus pés, revelando um abismo escuro, por qual você caiu, e caiu mais, por uma espécie de túnel escuro, gosmento e liso, o desespero/desentendimento começou assim que caiu com um baque seco no que parecia ser um chão lajotado de pedras, estranhamente lisas.",
+        alternativas: [
+            {
+                texto:"Talvez seja melhor ligar sua lanterna",
+                afirmacao: [ ""
+                ],
+                proxima: 20,
+            },
+        ]
+    },
+    /* pergunta 17 */
+    {
+        enunciado: "No seu mapa, em vermelho carmesim, havia um X marcado, alguns metros de distância da Cidade Desértica, o que o confundiu, pois como tanta riqueza (ou desgraça) estava tão próxima da civilização ''abandonada'? Estranho, mas você deixou isso de lado, pensando qual rota seguiria:",
+        alternativas: [
+            {
+                texto: "Bazar",
+                afirmacao: [ ""
+                ],
+                proxima: 21,
+            },
+            {
+                texto: "Fora do muro",
+                afirmacao: [ ""
+                ],
+                proxima: 22,
+            },
+            {
+                texto: "Centro da cidade",
+                afirmacao: [ ""
+                ],
+                proxima: 23,
+            },
+        ]
+    },
+    /* pergunta 18 */
+    {
+        enunciado: "No seu mapa, em vermelho carmesim, havia um X marcado, alguns metros de distância da Cidade Desértica, o que o confundiu, pois como tanta riqueza (ou desgraça) estava tão próxima da civilização ''abandonada'? Estranho, mas você deixou isso de lado, pensando qual rota seguiria:",
+        alternativas: [
+            {
+                texto: "Bazar",
+                afirmacao: [ ""
+                ],
+                proxima: 24,
+            },
+            {
+                texto: "Fora do muro",
+                afirmacao: [ ""
+                ],
+                proxima: 25,
+            },
+            {
+                texto: "Centro da cidade",
+                afirmacao: [ ""
+                ],
+                proxima: 26,
+            },
+        ]
+    },
+    /* pergunta 19 */
+    {
+        enunciado: "Vocês vão em direção à marcação do mapa, não há nada, exceto areia, norte, sul, nordeste e sudoeste, não havia nem sinal de cactos ou serpentes, camelos, nômades, apenas areia; você se desespera um pouco, pensando na probabilidade de ter sido enganado, até que seu companheiro percebe uma diferente forma no mar de areia, uma rocha, e a toca.",
+        alternativas: [
+            {
+                texto: "Você olha em sua direção, curioso",
+                afirmacao: [ ""
+                ],
+                proxima: 27,
+            },
+            {
+                texto: "Você pergunta o que ele encontrou",
+                afirmacao: [ ""
+                ],
+                proxima: 27,
+            },
+        ]
+    },
+    /* pergunta 20 */
+    {
+        enunciado: "Você liga a lanterna e imediatamente decide buscar a saída. Você consegue sentir algo estranho no ar, excluindo o cheiro que ele traz, que 10 segundos nas suas narinas já foram suficientes para provocar ânsias. Não durou muito para as pedras lisas findarem, paredes e chão agora eram de um tom de marrom, preto e carmesim, dessa vez você não aguentou o que seu nariz indicava, você vomitou e com toda a sua falsa esperança esperou que aquilo por toda parte não fosse sangue velho. Depois de andar pelo que pareceu 5 horas, você encontra um livro, ou melhor, um diário (em péssimas condições, e com um cheiro de carne podre impregnado) escrito em frânces, por sorte você sabia o suficiente para ler o seguinte:",
+        alternativas: [
+            {
+                texto: "O diário",
+                afirmacao: [ ""
+                ],
+                proxima: 28,
+            },
+        ]
+    },
+    /* pergunta 21 */
+    {
+        enunciado: "O bazar da Cidade Arenosa era mais como uma atração num circo de loucuras, um ecossistema que nunca é interrompido, as tendas de cores chamativas, as especiarias, um oásis de pessoas e ladrões (em poucos minutos você presenciou 4 roubos). Caminhando e conversando com Malik sobre a cidade, você distraidamente esbarra numa caixa de maçãs, atraindo olhos e um ladrão que você consegue ver passando 3 para debaixo do seu turbante laranja, por algum motivo ele aponta para você falando algo num dialeto árabe para o ambulante, basicamente acusando você do roubo dele, julgando o fato de ter uma cimitarra sacada vindo em sua direção, você já estava preparado para correr quando seu companheiro rapidamente apanha uma caixa de frutas e a arremessa violentamente no rosto do ambulante, que cai duro como uma maçã, atraindo todos os olhos do bazar, inclusive da Guarda, sem escolha vocês correm por todo o Deserto DeGente. Correr na estrada de poeira e areia batida com um sol de sabe-se lá quantas dezenas de graus não foi uma boa experiência.",
+        alternativas: [
+            {
+                texto: "O Deserto",
+                afirmacao: [ ""
+                ],
+                proxima: 29,
+            },
+        ]
+    },
+    /* pergunta 22 */
+    {
+        enunciado: "Por algum motivo você pensa ser mais seguro ir até o X por fora do muro da cidade. Malik te leva até uma viela, depois aos fundos de várias casinhas sobre casinhas, um buraco no muro, atenção bem menor. Vocês caminham bem rente à parede, como se estivessem numa prancha com medo de cair no mar de areia ao lado. As casas deste lado oeste da cidade formam uma favela árabe, casinhas compartilhadas vertical e horizontalmente, uma vista agoniante pra ser sincero. Você estava tão distraído que nem percebeu uma Naja 5 pés à frente, era uma cuspideira, Malik te empurra para a parede, e de maneira calma vai em direção da serpente, pega-a pela cauda e a joga uns bons metros de distância, depois te acena para prosseguir, sorrindo inocentemente. Apesar da viagem quase acabar cedo demais, vocês continuam.",
+        alternativas: [
+            {
+                texto: "O Deserto",
+                afirmacao: [ ""
+                ],
+                proxima: 29,
+            },
+        ]
+    },
+    /* pergunta 23 */
+    {
+        enunciado: "Seu companheiro te leva até uma fonte no meio da cidade, lá vocês esperam uns 10 minutos por Rafihd, um menino dono de camelos, seu parceiro te estica a mão, exigindo ouro, você fica sem jeito, o único que tinha já estava com o mercenário. Você vasculha sua mochila em procura de algo; tirando os itens, Rafihd observa o chocolate e aponta, resmungando ou falando numa língua que você não tem conhecimento, vocês fazem uma troca, baseada em acenos e frases arabescas de Malik. Camelos eram mais confortáveis do que você imaginava, mais rápidos também, a viagem foi tranquilizante, depois de observar a sociedade nessa cidade-oásis do deserto, seu bazar e alguns roubos, você atravessa o limite do muro e adentra o inóspito.",
+        alternativas: [
+            {
+                texto: "O Deserto",
+                afirmacao: [ ""
+                ],
+                proxima: 29,
+            },
+        ]
+    },
+    /* pergunta 24 */
+    {
+        enunciado: "O bazar da Cidade Arenosa era mais como uma atração num circo de loucuras, um ecossistema que nunca é interrompido, as tendas de cores chamativas, as especiarias, um oásis de pessoas e ladrões (em poucos minutos você presenciou 4 roubos). Caminhando e conversando com Ramés sobre a cidade, você distraidamente esbarra numa caixa de maçãs, atraindo olhos e um ladrão que você consegue ver passando 3 para debaixo do seu turbante laranja, por algum motivo ele aponta para você falando algo num dialeto árabe para o ambulante, basicamente acusando você do roubo dele, julgando o fato de ter uma cimitarra sacada vindo em sua direção, você já estava preparado para correr quando seu companheiro rapidamente saca sua espada e, com um único golpe, separa o braço do corpo do ambulante; ''Não interfira em meus negócios''. Rámes então salta sobre uma caixa e então sobre a tenda, desaparecendo nas casinhas logo ao lado. Sabendo que isso atraiu todos os olhos do bazar, inclusive da Guarda, sem escolha você corre por todo o Deserto DeGente. Correr na estrada de poeira e areia batida com um sol de sabe-se lá quantas dezenas de graus não foi uma boa experiência, algo que chamou sua atenção é que não houveram guardas perseguidores. Você encontrou Ramés no Portão Leste, calado, como se nada tivesse acontecido.",
+        alternativas: [
+            {
+                texto: "O Deserto",
+                afirmacao: [ ""
+                ],
+                proxima: 30,
+            },
+        ]
+    },
+    /* pergunta 25 */
+    {
+        enunciado: "Por algum motivo você pensa ser mais seguro ir até o X por fora do muro da cidade. Ramés te leva até uma viela, depois aos fundos de várias casinhas sobre casinhas, um buraco no muro, atenção bem menor. Vocês caminham bem rente à parede, como se estivessem numa prancha com medo de cair no mar de areia ao lado. As casas deste lado oeste da cidade formam uma favela árabe, casinhas compartilhadas vertical e horizontalmente, uma vista agoniante pra ser sincero. Você estava tão distraído que nem percebeu uma Naja 5 pés à frente, era uma cuspideira, Ramés te empurra para a parede e faz um movimento rápido com a mão esquerda, você ouve o barulho do ar, mostrando resistência, a serpente tem uma faca no meio da cabeça. ''Mais cuidado, estrangeiro.'' Apesar da viagem quase acabar cedo demais, vocês continuam.",
+        alternativas: [
+            {
+                texto: "O Deserto",
+                afirmacao: [ ""
+                ],
+                proxima: 30,
+            },
+        ]
+    },
+    /* pergunta 26 */
+    {
+        enunciado: "Seu companheiro te leva até uma fonte no meio da cidade, lá vocês esperam uns 10 minutos por Rafihd, um menino dono de camelos, seu parceiro te estica a mão, exigindo ouro, você fica sem jeito, o único que tinha já estava com o mercenário. Você vasculha sua mochila em procura de algo; tirando os itens, Rafihd observa o chocolate e aponta, resmungando ou falando numa língua que você não tem conhecimento, vocês fazem uma troca, baseada em acenos e frases arabescas de Ramés. Camelos eram mais confortáveis do que você imaginava, mais rápidos também, a viagem foi tranquilizante, depois de observar a sociedade nessa cidade-oásis do deserto, seu bazar e alguns roubos, você atravessa o limite do muro e adentra o inóspito.",
+        alternativas: [
+            {
+                texto: "O Deserto",
+                afirmacao: [ ""
+                ],
+                proxima: 30,
+            },
+        ]
+    },
+    /* pergunta 27 */
+    {
+        enunciado: "Não houve tempo, o Farol fora tocado, rochas gemeram e se abriram sob seus pés, revelando um abismo escuro, por qual vocês caíram, e caíram mais, por uma espécie de túnel escuro, gosmento e liso, o desespero/desentendimento começou assim que caíram com um baque seco no que parecia ser um chão lajotado de pedras, estranhamente lisas.",
+        alternativas: [
+            {
+                texto:"Ligar sua lanterna",
+                afirmacao: [ ""
+                ],
+                proxima: 31,
+            },
+            {
+                texto: "Perguntar como está seu companheiro",
+                afirmacao: [ ""
+                ],
+                proxima: 31,
+            },
+        ]
+    },
+    /* pergunta 28 */
+    {
+        enunciado: "''C'est le misérable Tombeau Coagulée, on peut le voir depuis les mares de sang séché à l'entrée, sur le sol et les murs, juste du sang, pas de fragments d'os, j'espère que c'est du sang animal, ce n'est pas une meilleure nouvelle, l'odeur est insupportable... Des bruits des lignes interminables devant c'est la fin des boules de san'' - ''Esta é a desgraçada Tumba Coagulada, percebemos pelas poças de sangue coagulado na entrada, apenas sangue, nenhum fragmento de osso, espero que seja sangue animal, não que seja uma notícia melhor, o cheiro é insuportável... Barulhos infindáveis à frente, é o fim, bolas de san",
+        alternativas: [
+            {
+                texto:"Você segue em frente, calado, apreensivo e com um sentimento esquisito",
+                afirmacao: [ ""
+                ],
+                proxima: 32,
+            },
+        ]
+    },
+    /* pergunta 29 */
+    {
+        enunciado: "Vocês vão em direção à marcação do mapa, não há nada, exceto areia, norte, sul, nordeste e sudoeste, não havia nem sinal de cactos ou serpentes, camelos, nômades, apenas areia; você se desespera um pouco, pensando na probabilidade de ter sido enganado, até que seu companheiro percebe uma diferente forma no mar de areia, uma rocha, e a toca.",
+        alternativas: [
+            {
+                texto: "Você olha em sua direção, curioso",
+                afirmacao: [ ""
+                ],
+                proxima: 33,
+            },
+            {
+                texto: "Você pergunta o que ele encontrou",
+                afirmacao: [ ""
+                ],
+                proxima: 33,
+            },
+        ]
+    },
+    /* pergunta 30 */
+    {
+        enunciado: "Vocês vão em direção à marcação do mapa, não há nada, exceto areia, norte, sul, nordeste e sudoeste, não havia nem sinal de cactos ou serpentes, camelos, nômades, apenas areia; você se desespera um pouco, pensando na probabilidade de ter sido enganado, até que seu companheiro percebe uma diferente forma no mar de areia, uma rocha, e a toca.",
+        alternativas: [
+            {
+                texto: "Você olha em sua direção, curioso",
+                afirmacao: [ ""
+                ],
+                proxima: 34,
+            },
+            {
+                texto: "Você pergunta o que ele encontrou",
+                afirmacao: [ ""
+                ],
+                proxima: 34,
+            },
+        ]
+    },
+    /* pergunta 31 */
+    {
+        enunciado: "''Você tem uma lanterna imbecil? Traga já essa merda aqui! Onde estamos!? O que tá acontecendo merda!?!'' Depois de discutirem, e de você revelar seu real motivo de contrato (que fez seu companheiro rir ironica, mas nervosamente), vocês decidem buscar a saída. Você consegue sentir algo estranho no ar, excluindo o cheiro que ele traz, que 10 segundos nas suas narinas já foram suficientes para provocar ânsias. Não durou muito para as pedras lisas findarem, paredes e chão agora eram de um tom de marrom, preto e carmesim, dessa vez você não aguentou o que seu nariz indicava, você vomitou e com toda a sua falsa esperança esperou que aquilo por toda parte não fosse sangue velho. Depois de andarem pelo que pareceu 5 horas, vocês encontram um livro, ou melhor, um diário (em péssimas condições, e com um cheiro de carne podre impregnado) escrito em frânces, por sorte seu companheiro o sabia e leu o seguinte:",
+        alternativas: [
+            {
+                texto: "O diário",
+                afirmacao: [ ""
+                ],
+                proxima: 35,
+            },
+        ]
+    },
+    /* pergunta 32 */
+    {
+        enunciado: "Você percebe um súbito brilho, um brilho dourado, seduzente. Era o que você imginava, não como você imaginava, o corredor levou você em direção a um salão, uma ponte conectava você a outro corredor, essa ponte cruzava um rio, não de águas cristalinas, mas de ouro e jóias, milhões de toneladas de ouro, o brilho, você pensa, pode até cegar, tamanho o esplendor e riqueza que estava ali, a 3 passos. Palavras não conseguem escapar da sua boca, como uma mariposa encantada por uma lâmpada, você sente vontade de ir até o tesouro, é, vá em direção ao ouro, nada mais importa, só o brilho do Sol. Você:",
+        alternativas: [
+            {
+                texto: "Vai até o tesouro",
+                afirmacao: [ "Tão súbito como foi o brilho, você ouve um ruído, que aumenta a cada segundo, você está feliz sobre o ouro, dando uma de Tio Patinhas, governando-o. O ruído se torna ensurdecedor, tirando você do transe em que estava, você observa, sem acreditar uma onda, 7 metros ou sei lá, de moedas e jóias, vindo em direção da ponte, desesperado você tenta escapar, mas tentando, suas pernas afundam nas moedas e pepitas, talvez ele tenha mesmo um poder sobre a mente fraca do homem, você não tem escolha e se abaixa, esperando o impacto; a onda atinge a ponte, com um peso avassalador de toneladas, destruindo-a e destruindo também os seus ossos e órgãos, a pressão tingiu o ouro com seu sangue carmesim, você se tornou parte da riqueza amaldiçoada."
+                ],
+            },
+            {
+                texto: "Tenta ver o que tem do outro lado",
+                afirmacao: [ ""
+                ],
+                proxima: 36,
+            },
+        ]
+    },
+    /* pergunta 33 */
+    {
+        enunciado: "Não houve tempo, o Farol fora tocado, rochas gemeram e se abriram sob seus pés, revelando um abismo escuro, por qual vocês caíram, e caíram mais, por uma espécie de túnel escuro, gosmento e liso, o desespero/desentendimento começou assim que caíram com um baque seco no que parecia ser um chão lajotado de pedras, estranhamente lisas.",
+        alternativas: [
+            {
+                texto:"Ligar sua lanterna",
+                afirmacao: [ ""
+                ],
+                proxima: 37,
+            },
+            {
+                texto: "Perguntar como está seu companheiro",
+                afirmacao: [ ""
+                ],
+                proxima: 37,
+            },
+        ]
+    },
+    /* pergunta 34 */
+    {
+        enunciado: "Não houve tempo, o Farol fora tocado, rochas gemeram e se abriram sob seus pés, revelando um abismo escuro, por qual vocês caíram, e caíram mais, por uma espécie de túnel escuro, gosmento e liso, o desespero/desentendimento começou assim que caíram com um baque seco no que parecia ser um chão lajotado de pedras, estranhamente lisas.",
+        alternativas: [
+            {
+                texto:"Ligar sua lanterna",
+                afirmacao: [ ""
+                ],
+                proxima: 38,
+            },
+            {
+                texto: "Perguntar como está seu companheiro",
+                afirmacao: [ ""
+                ],
+                proxima: 38,
+            },
+        ]
+    },
+    /* pergunta 35 */
+    {
+        enunciado: "''C'est le misérable Tombeau Coagulée, on peut le voir depuis les mares de sang séché à l'entrée, sur le sol et les murs, juste du sang, pas de fragments d'os, j'espère que c'est du sang animal, ce n'est pas une meilleure nouvelle, l'odeur est insupportable... Des bruits des lignes interminables devant c'est la fin des boules de san'' - ''Esta é a desgraçada Tumba Coagulada, percebemos pelas poças de sangue coagulado na entrada, apenas sangue, nenhum fragmento de osso, espero que seja sangue animal, não que seja uma notícia melhor, o cheiro é insuportável... Barulhos infindáveis à frente, é o fim, bolas de san",
+        alternativas: [
+            {
+                texto:"Vocês seguem em frente, calados, apreensivos e com um sentimentos esquisitos",
+                afirmacao: [ ""
+                ],
+                proxima: 39,
+            },
+        ]
+    },
+    /* pergunta 36 */
+    {
+        enunciado: "Tão súbito como foi o brilho, você ouve um ruído, que aumenta a cada segundo, você está feliz sobre o ouro, dando uma de Tio Patinhas, governando-o. O ruído se torna ensurdecedor, tirando você do transe em que estava, você observa, sem acreditar uma onda, 7 metros ou sei lá, de moedas e jóias, vindo em direção da ponte, desesperado você tenta escapar, mas tentando, suas pernas afundam nas moedas e pepitas, você não tem escolha e se abaixa, esperando o impacto; a onda atinge a ponte, com um peso avassalador de toneladas, destruindo-a e destruindo também os seus ossos e órgãos, a pressão tingiu o ouro com seu sangue carmesim, você se tornou parte da riqueza amaldiçoada.",
+        alternativas: [
+            {
+                texto:"Vocês seguem em frente, calados, apreensivos e com um sentimentos esquisitos",
+                afirmacao: [ ""
+                ],
+                proxima: 40,
             },
         ]
     },
