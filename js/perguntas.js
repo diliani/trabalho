@@ -639,7 +639,7 @@ export const perguntas = [
             {
                 texto: "Símbolo sujo com sangue coagulado",
                 afirmacao: "Nada acontece, você pressiona de novo, todos uma, duas vezes. É o fim, você ouve muitos barulhos. Você é a oferenda do altar sangrento. Você será devorado vivo. Parte por parte. Por criaturas sombrias que a compreensão humana não está preparada para experimentar."
-            }
+            },
         ]
     },
     /* pergunta 41 */
@@ -717,7 +717,7 @@ export const perguntas = [
             {
                 texto: "Símbolo sujo com sangue coagulado",
                 afirmacao: "Nada acontece, você pressiona de novo, todos uma, duas vezes. É o fim, você ouve muitos barulhos. Vocês são a oferenda do altar sangrento. Vocês serão devorados vivos. Parte por parte. Por criaturas sombrias que a compreensão humana não está preparada para experimentar."
-            }
+            },
         ]
     },
     /* pergunta 47 */
@@ -735,7 +735,7 @@ export const perguntas = [
             {
                 texto: "Símbolo sujo com sangue coagulado",
                 afirmacao: "Nada acontece, você pressiona de novo, todos uma, duas vezes. É o fim, você ouve muitos barulhos. Vocês são a oferenda do altar sangrento. Vocês serão devorados vivos. Parte por parte. Por criaturas sombrias que a compreensão humana não está preparada para experimentar."
-            }
+            },
         ]
     },
 ]
