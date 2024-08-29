@@ -630,15 +630,18 @@ export const perguntas = [
         alternativas: [
             {
                 texto: "Símbolo com o mar, ondas entalhadas",
-                afirmacao: "O altar sobe por uma passagem que se abriu, sobe rápido o suficiente para que você não veja os autores dos ruídos, segundos depois areia cai sobre você, você emerge no deserto, você corre, em direção não pensada, olhando para trás, apenas areia; você não lembra de muito, depois de 2 horas de caminhada você achou a civilização, na primeira oportunidade viajou ao Cairo, onde alugou uma pequena casa nos becos desérticos, e lá se trancafiou por um tempo. Umas semanas depois, você descobriu um novo hobbie, o bazar de Cairo, suas mercadorias, mercadores, diárias atrações que os mais diversos nativos e estrangeiros proporcionavam, só uma coisa o incomoda há dias, a impressão de que você avista o cigano, toda vez que o Sol indica o meio do dia, te observando, com uma feição estranha. É, ultimamente você tem ficado em casa; de noite tranca a porta e as janelas, e vai deitar rezando para que tudo tenha sido um sonho."
+                afirmacao: [ "O altar sobe por uma passagem que se abriu, sobe rápido o suficiente para que você não veja os autores dos ruídos, segundos depois areia cai sobre você, você emerge no deserto, você corre, em direção não pensada, olhando para trás, apenas areia; você não lembra de muito, depois de 2 horas de caminhada você achou a civilização, na primeira oportunidade viajou ao Cairo, onde alugou uma pequena casa nos becos desérticos, e lá se trancafiou por um tempo. Umas semanas depois, você descobriu um novo hobbie, o bazar de Cairo, suas mercadorias, mercadores, diárias atrações que os mais diversos nativos e estrangeiros proporcionavam, só uma coisa o incomoda há dias, a impressão de que você avista o cigano, toda vez que o Sol indica o meio do dia, te observando, com uma feição estranha. É, ultimamente você tem ficado em casa; de noite tranca a porta e as janelas, e vai deitar rezando para que tudo tenha sido um sonho."
+                ],
             },
             {
                 texto: "Símbolo com um escaravelho entalhado",
-                afirmacao: "Nada acontece, você pressiona de novo, todos uma, duas vezes. É o fim, você ouve muitos barulhos. Você é a oferenda do altar sangrento. Você será devorado vivo. Parte por parte. Por criaturas sombrias que a compreensão humana não está preparada para experimentar."
+                afirmacao: [ "Nada acontece, você pressiona de novo, todos uma, duas vezes. É o fim, você ouve muitos barulhos. Você é a oferenda do altar sangrento. Você será devorado vivo. Parte por parte. Por criaturas sombrias que a compreensão humana não está preparada para experimentar."
+                ],
             },
             {
                 texto: "Símbolo sujo com sangue coagulado",
-                afirmacao: "Nada acontece, você pressiona de novo, todos uma, duas vezes. É o fim, você ouve muitos barulhos. Você é a oferenda do altar sangrento. Você será devorado vivo. Parte por parte. Por criaturas sombrias que a compreensão humana não está preparada para experimentar."
+                afirmacao: [ "Nada acontece, você pressiona de novo, todos uma, duas vezes. É o fim, você ouve muitos barulhos. Você é a oferenda do altar sangrento. Você será devorado vivo. Parte por parte. Por criaturas sombrias que a compreensão humana não está preparada para experimentar."
+                ],   
             },
         ]
     },
@@ -708,15 +711,18 @@ export const perguntas = [
         alternativas: [
             {
                 texto: "Símbolo com o mar, ondas entalhadas",
-                afirmacao: "Antes que algo pudesse acontecer, os Devoradores se mostraram, insetos com uma carapaça grande e redonda, suja e fedorenta, suas feições não eram terrestres, suas 'bocas' eram como tentáculos serrilhados que soltavam uma bile provavelmente digestiva e ácida, tinham muitas patas como centópeias asquerosas e pinças como escorpiões, uma dessas pinças dilacerou a perna de Malik, que como último esforço, me ajudou a subir no altar. ''Váá...''. O altar então sobe por uma passagem que se abriu; segundos depois areia cai sobre você, você emerge no deserto, você corre, em direção não pensada, olhando para trás, apenas areia; você não lembra de muito, depois de 2 horas de corrida você achou a civilização, na primeira oportunidade viajou ao Canadá, onde alugou uma pequena casa nos subúrbios, e lá se trancafiou por um tempo. Mesmo meses depois, você continua vendo Devoradores espreitando-se, coisas da sua cabeça, mas uma coisa bastante real o incomoda há dias, a impressão de que você avista o cigano, toda vez que o Sol indica o meio do dia, te observando e rindo, com uma forma diferente, o corpo inchado, gosmento e verde. É, ultimamente você tem ficado em casa; de noite tranca a porta e as janelas, e vai deitar rezando para que tudo tenha sido um sonho."
+                afirmacao: [ "Antes que algo pudesse acontecer, os Devoradores se mostraram, insetos com uma carapaça grande e redonda, suja e fedorenta, suas feições não eram terrestres, suas 'bocas' eram como tentáculos serrilhados que soltavam uma bile provavelmente digestiva e ácida, tinham muitas patas como centópeias asquerosas e pinças como escorpiões, uma dessas pinças dilacerou a perna de Malik, que como último esforço, me ajudou a subir no altar. ''Váá...''. O altar então sobe por uma passagem que se abriu; segundos depois areia cai sobre você, você emerge no deserto, você corre, em direção não pensada, olhando para trás, apenas areia; você não lembra de muito, depois de 2 horas de corrida você achou a civilização, na primeira oportunidade viajou ao Canadá, onde alugou uma pequena casa nos subúrbios, e lá se trancafiou por um tempo. Mesmo meses depois, você continua vendo Devoradores espreitando-se, coisas da sua cabeça, mas uma coisa bastante real o incomoda há dias, a impressão de que você avista o cigano, toda vez que o Sol indica o meio do dia, te observando e rindo, com uma forma diferente, o corpo inchado, gosmento e verde. É, ultimamente você tem ficado em casa; de noite tranca a porta e as janelas, e vai deitar rezando para que tudo tenha sido um sonho."
+                ],
             },
             {
                 texto: "Símbolo com um escaravelho entalhado",
-                afirmacao: "Nada acontece, você pressiona de novo, todos uma, duas vezes. É o fim, você ouve muitos barulhos. Vocês são a oferenda do altar sangrento. Vocês serão devorados vivos. Parte por parte. Por criaturas sombrias que a compreensão humana não está preparada para experimentar."
+                afirmacao: [ "Nada acontece, você pressiona de novo, todos uma, duas vezes. É o fim, você ouve muitos barulhos. Vocês são a oferenda do altar sangrento. Vocês serão devorados vivos. Parte por parte. Por criaturas sombrias que a compreensão humana não está preparada para experimentar."
+            ],
             },
             {
                 texto: "Símbolo sujo com sangue coagulado",
-                afirmacao: "Nada acontece, você pressiona de novo, todos uma, duas vezes. É o fim, você ouve muitos barulhos. Vocês são a oferenda do altar sangrento. Vocês serão devorados vivos. Parte por parte. Por criaturas sombrias que a compreensão humana não está preparada para experimentar."
+                afirmacao: [ "Nada acontece, você pressiona de novo, todos uma, duas vezes. É o fim, você ouve muitos barulhos. Vocês são a oferenda do altar sangrento. Vocês serão devorados vivos. Parte por parte. Por criaturas sombrias que a compreensão humana não está preparada para experimentar."
+                ],
             },
         ]
     },
@@ -726,15 +732,18 @@ export const perguntas = [
         alternativas: [
             {
                 texto: "Símbolo com o mar, ondas entalhadas",
-                afirmacao: "Antes que algo pudesse acontecer, uma Besta aparece, um inseto com uma carapaça grande e redonda, suja e fedorenta, suas feições não eram terrestres, suas 'bocas' eram como tentáculos serrilhados que soltavam uma bile provavelmente digestiva e ácida, tinha muitas patas como centópeias asquerosas e pinças como escorpiões, como último esforço, Ramés desceu do altar e sacou a espada. ''Vá agora!!!''. A Besta então avançou, com uma força abaladora, transformando a cabeça do mercenário em dezenas de pequenas fibras de carne, foi horrível. O altar logo então subiu por uma passagem que se abriu; segundos depois areia cai sobre você, você emerge no deserto, você corre, em direção não pensada, olhando para trás, apenas areia; você não lembra de muito, depois de 2 horas de corrida você achou a civilização, na primeira oportunidade viajou ao Panamá, onde alugou uma pequena casa na praia, lá se trancafiando por um tempo. Mesmo meses depois, você continua vendo Ramés espreitando-se, sem sua cabeça, parte do torso e braço esquerdo, o trauma foi muito severo... Mas uma coisa bastante real o incomoda há dias, a impressão de que você avista o cigano, toda vez que o Sol indica o meio do dia, te observando e rindo, com uma forma diferente, o corpo vermelho, com a cabeça estranhamente grande e gargalhando. É, ultimamente você tem ficado em casa; de noite tranca a porta e as janelas, e vai deitar rezando para que tudo tenha sido um sonho."
+                afirmacao: [ "Antes que algo pudesse acontecer, uma Besta aparece, um inseto com uma carapaça grande e redonda, suja e fedorenta, suas feições não eram terrestres, suas 'bocas' eram como tentáculos serrilhados que soltavam uma bile provavelmente digestiva e ácida, tinha muitas patas como centópeias asquerosas e pinças como escorpiões, como último esforço, Ramés desceu do altar e sacou a espada. ''Vá agora!!!''. A Besta então avançou, com uma força abaladora, transformando a cabeça do mercenário em dezenas de pequenas fibras de carne, foi horrível. O altar logo então subiu por uma passagem que se abriu; segundos depois areia cai sobre você, você emerge no deserto, você corre, em direção não pensada, olhando para trás, apenas areia; você não lembra de muito, depois de 2 horas de corrida você achou a civilização, na primeira oportunidade viajou ao Panamá, onde alugou uma pequena casa na praia, lá se trancafiando por um tempo. Mesmo meses depois, você continua vendo Ramés espreitando-se, sem sua cabeça, parte do torso e braço esquerdo, o trauma foi muito severo... Mas uma coisa bastante real o incomoda há dias, a impressão de que você avista o cigano, toda vez que o Sol indica o meio do dia, te observando e rindo, com uma forma diferente, o corpo vermelho, com a cabeça estranhamente grande e gargalhando. É, ultimamente você tem ficado em casa; de noite tranca a porta e as janelas, e vai deitar rezando para que tudo tenha sido um sonho."
+                ],
             },
             {
                 texto: "Símbolo com um escaravelho entalhado",
-                afirmacao: "Nada acontece, você pressiona de novo, todos uma, duas vezes. É o fim, você ouve muitos barulhos. Vocês são a oferenda do altar sangrento. Vocês serão devorados vivos. Parte por parte. Por criaturas sombrias que a compreensão humana não está preparada para experimentar."
+                afirmacao: [ "Nada acontece, você pressiona de novo, todos uma, duas vezes. É o fim, você ouve muitos barulhos. Vocês são a oferenda do altar sangrento. Vocês serão devorados vivos. Parte por parte. Por criaturas sombrias que a compreensão humana não está preparada para experimentar."
+                ],
             },
             {
                 texto: "Símbolo sujo com sangue coagulado",
-                afirmacao: "Nada acontece, você pressiona de novo, todos uma, duas vezes. É o fim, você ouve muitos barulhos. Vocês são a oferenda do altar sangrento. Vocês serão devorados vivos. Parte por parte. Por criaturas sombrias que a compreensão humana não está preparada para experimentar."
+                afirmacao: [ "Nada acontece, você pressiona de novo, todos uma, duas vezes. É o fim, você ouve muitos barulhos. Vocês são a oferenda do altar sangrento. Vocês serão devorados vivos. Parte por parte. Por criaturas sombrias que a compreensão humana não está preparada para experimentar."
+                ],
             },
         ]
     },
