@@ -1,6 +1,5 @@
 export const perguntas = [
     /* pergunta 0 */
-    // 
     {
         enunciado: "Por anos silenciosos a Tumba de Takahat permaneceu selada e escondida da civilização, seu interior, diziam, abrigava ouro infinito, assim como também os corpos dos exploradores franceses que ousaram se aventurar em seu interior. Bom, pelo menos foi isso que o cigano de quem você comprou um mapa da localização da tal tumba disse. Bobagem, você pensou, exceto pelo tesouro, toda tumba deve abrigar algum tesouro. Você? Você é um(a) aventureiro(a) qualquer buscando fortuna fácil, apesar de estar confiante você tem um pensamento repetitivo enquanto anda pelas ruas desérticas observando seu mapa feito de papiro:",
         alternativas: [
@@ -11,7 +10,7 @@ export const perguntas = [
                 proxima: 1,
             },
             {
-                texto: "E se, por algum acaso, os perigos forem reais?",
+                texto: "As palavras do cigano",
                 afirmacao: [ ""
                 ],
                 proxima: 2,
@@ -26,32 +25,48 @@ export const perguntas = [
         ]
     },
     /* pergunta 1 */
-    //  
     {
-        enunciado: "Você tem o básico, uma lanterna de boa potência com pilhas extras, um cantil com água potável, obviamente, uma corda de escalada medindo 5 metros, umas barrinhas energéticas de chocolate, até um revólver calibre 38 com 6 balas, caso algo se torne apimentado, etcetera e etcetera, não tem motivo de preocupação.",
+        enunciado: "Você tem o básico, uma lanterna de boa potência com pilhas extras, um cantil com água potável, obviamente, uma corda de escalada medindo 5 metros, umas barrinhas energéticas de chocolate, até um revólver calibre 38 com 6 balas, caso algo se torne apimentado, etcetera e etcetera, não tem motivo de preocupação. Você então:",
         alternativas: [
             {
-                texto: "Akbar, um batedor de carteira",
+                texto: "Pensa nas palavras do cigano",
+                afirmacao: [ ""
+                ],
+                proxima: 2,
+            },
+            {
+                texto: "Tenta conseguir um companheiro",
+                afirmacao: [ ""
+                ],
+                proxima: 3,
+            },
+            {
+                texto: "Observa seu mapa",
                 afirmacao: [ ""
                 ],
                 proxima: 4,
             },
+        ]
+    },
+    /* pergunta 2 */
+    {
+        enunciado: "O cigano era um sujeito muito estranho, tinha uma voz distinta, que dava um aspecto de velhice, isso não falando da sua aparência, nada higiênica; um olho branco que dava medo. ''",
+        alternativas: [
             {
-                texto: "Malik, um ex-escravo do Sudão",
+                texto: "Você olha em sua direção, curioso",
                 afirmacao: [ ""
                 ],
-                proxima: 5,
+                proxima: 7,
             },
             {
-                texto: "Ramés, um assassino de aluguel",
+                texto: "Você pergunta o que ele encontrou",
                 afirmacao: [ ""
                 ],
-                proxima: 6,
+                proxima: 8,
             },
         ]
     },
     /* pergunta 2 */
-    // 
     {
         enunciado: "Sim, eram as únicas opções, você decide não dar detalhes maiores para esse tipo de pessoa, com certeza traiçoeira, apenas o diz que precisa de ''duas mãos a mais'' para proteção. Vocês vão em direção à marcação do mapa, não há nada, exceto areia, norte, sul, nordeste e sudoeste, areia; você se desespera um pouco, pensando na probabilidade de ter sido enganado(a), até que seu companheiro percebe uma diferente forma no mar de areia, uma rocha, e a toca.",
         alternativas: [
@@ -94,6 +109,7 @@ export const perguntas = [
         ]
     },
     /* pergunta 4 */
+    / Você / 
     {
         enunciado: "''Você tem uma lanterna imbecil? Traga já essa merda aqui! Onde estamos!? O que tá acontecendo merda!?!'' Depois de discutirem, e de você revelar seu real motivo de contrato (que fez seu companheiro rir ironica, mas nervosamente), vocês decidem buscar a saída. Você consegue sentir algo estranho no ar, excluindo o cheiro que ele traz, que 10 segundos nas suas narinas já foram suficientes para provocar ânsias. Depois de andarem pelo que pareceu 5 horas, vocês encontram um livro, ou melhor, um diário (em péssimas condições, e com um cheiro de carne podre impregnado) escrito em frânces, por sorte seu companheiro o sabia e leu as seguintes palavras: ''Esta É a Tumba de Takahat, sob o mar de areia está esse mar de sangue, aqui só há morte''",
         alternativas: [
@@ -224,7 +240,8 @@ export const perguntas = [
     },
     /* pergunta 11 */
     {
-        enunciado: "Era um sujeito chamativo, magro e bronzeado, usava turbante branco, tinha roupas finas com pedaços de seda vermelha, brincos dourados; pouco se sabia do sujeito, mas não era segredo que Ramés fazia parte de alguma guilda de assassinos nômades habilidosos com armas brancas. Sim, eram as únicas opções. Você mal acredita que pode conseguir serviços de alguém de tão alto calibre e periculosidade no bazar. Você definitivamente não deveria dar detalhes maiores para esse tipo de pessoa, membro de guildas de assassinos com habilidades para matar em segundos, mas você provavelmente necessita de proteção. De qualquer forma você está apreensivo dos talvez interesses que Ramés pode ter quando chegarem à localização X, quando seu serviço estiver terminado.",
+        enunciado: "Era um sujeito chamativo, magro e bronzeado, usava turbante branco, tinha roupas finas com pedaços de seda vermelha, brincos dourados; pouco se sabia do sujeito, mas não era segredo que Ramés fazia parte de alguma guilda de assassinos nômades habilidosos com armas brancas. Sim, eram as únicas opções. Você mal acredita que pode conseguir serviços de alguém de tão alto calibre e periculosidade no bazar. Você definitivamente não deveria dar detalhes maiores para esse tipo de pessoa, membro de guildas de assassinos com habilidades para matar em segundos, mas você provavelmente necessita de proteção. De qualquer forma você está apreensivo dos talvez interesses que Ramés pode ter quando chegarem à localização X, quando seu serviço estiver terminado.
+        ",
         alternativas: [
             {
                 texto: "Símbolo com o mar, ondas entalhadas",
