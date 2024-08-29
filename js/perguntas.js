@@ -239,8 +239,7 @@ export const perguntas = [
     },
     /* pergunta 11 */
     {
-        enunciado: "Era um sujeito chamativo, magro e bronzeado, usava turbante branco, tinha roupas finas com pedaços de seda vermelha, brincos dourados; pouco se sabia do sujeito, mas não era segredo que Ramés fazia parte de alguma guilda de assassinos nômades habilidosos com armas brancas. Sim, eram as únicas opções. Você mal acredita que pode conseguir serviços de alguém de tão alto calibre e periculosidade no bazar. Você definitivamente não deveria dar detalhes maiores para esse tipo de pessoa, membro de guildas de assassinos com habilidades para matar em segundos, mas você provavelmente necessita de proteção. De qualquer forma você está apreensivo dos talvez interesses que Ramés pode ter quando chegarem à localização X, quando seu serviço estiver terminado.
-        ",
+        enunciado: "Era um sujeito chamativo, magro e bronzeado, usava turbante branco, tinha roupas finas com pedaços de seda vermelha, brincos dourados; pouco se sabia do sujeito, mas não era segredo que Ramés fazia parte de alguma guilda de assassinos nômades habilidosos com armas brancas. Sim, eram as únicas opções. Você mal acredita que pode conseguir serviços de alguém de tão alto calibre e periculosidade no bazar. Você definitivamente não deveria dar detalhes maiores para esse tipo de pessoa, membro de guildas de assassinos com habilidades para matar em segundos, mas você provavelmente necessita de proteção. De qualquer forma você está apreensivo dos talvez interesses que Ramés pode ter quando chegarem à localização X, quando seu serviço estiver terminado."
         alternativas: [
             {
                 texto: "Símbolo com o mar, ondas entalhadas",
